@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "Marco Aguirre"
+  page-navigation: true
+  navbar:
+    right:
+      - text: "Resume"
+        href: about.qmd
+      - text: "Notebooks"
+        href: notebooks.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+ 
+
+
