@@ -114,8 +114,6 @@ div.csl-indent {
   }
 }</script>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -228,11 +226,14 @@ div.csl-indent {
 
 <section id="objectives" class="level2">
 <h2 class="anchored" data-anchor-id="objectives">Objectives</h2>
-<p>Implement the selection sort algorithm, analyze its performance and complexity in different scenarios. Implement a recursive function to familiarize ourselves with applying recursive algorithms or functions.</p>
+<ul>
+<li>Implement the selection sort algorithm, analyze its performance and complexity in different scenarios.</li>
+<li>Implement a recursive function to familiarize ourselves with applying recursive algorithms or functions.</li>
+</ul>
 </section>
 <section id="introduction" class="level2">
 <h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
-<p>Sorting a dataset involves arranging the data collection to establish an accurate relationship, in this case, order. Sorting is one of the most studied problems in computer science, resulting in many algorithms of varying efficiency that sort elements such as names, indices, letters, etc. <span class="citation" data-cites="Necaise2011-wf">(<a href="#ref-Necaise2011-wf" role="doc-biblioref">Necaise 2011</a>)</span>. Selection sort is one of these sorting algorithms and is based on creating a new list where it places the values it is sorting. Its efficiency is <span class="math display">\[ O(n^{2}) \]</span> .</p>
+<p>Sorting a dataset involves arranging the data collection to establish an accurate relationship, in this case, order. Sorting is one of the most studied problems in computer science, resulting in many algorithms of varying efficiency that sort elements such as names, indices, letters, etc. <span class="citation" data-cites="Necaise2011-wf">(<a href="#ref-Necaise2011-wf" role="doc-biblioref">Necaise 2011</a>)</span>. Selection sort is one of these sorting algorithms and is based on creating a new list where it places the values it is sorting. Its efficiency is $ O(n^{2}) $ .</p>
 <p>Recursion is a process for solving problems and a powerful programming tool to solve a larger problem by subdividing it into smaller cases, then solving the smaller problem to provide a solution to the initial problem. It can be used with a wide range of problems, from basic traditional iterations to more advanced backtracking problems. In some cases, recursion is not the efficient and elegant solution <span class="citation" data-cites="Bhargava2024-vi">(<a href="#ref-Bhargava2024-vi" role="doc-biblioref">Bhargava 2024</a>)</span>.</p>
 </section>
 <section id="exercise-1" class="level2">
@@ -331,12 +332,11 @@ List selection sort : [14, 23, 46, 56, 63, 63, 67, 88, 89, 98]</code></pre>
 <ul>
 <li>The implementation of selection sort carried out in Exercise 1 confirms the utility of selection sort as a tool for ordering a collection of data.</li>
 <li>The selection sort algorithm implemented in Exercise 1 is composed of two functions: the first, <code>findSmallest</code>, which returns the index of the smallest element in the array, and the second, <code>selectionSort</code>, which adds this element to the new sorted list and removes it from the original array.</li>
-<li>The efficiency of selection sort is $ O(n^2) $ operations to sort a list of n elements.</li>
+<li>The efficiency of selection sort is $ O(n^{2}) $ operations to sort a list of n elements.</li>
 <li>The recursive function <code>addScalarToArray</code> implemented in Exercise 2 generalizes the algorithm for adding a scalar to an array of different dimensions. In contrast, implementing the function with the same iterative logic only solves the problem for an array of predefined dimension.</li>
 <li>Recursion consists of one or more base cases. In the function in Exercise 2, the base case executes when the input value is an integer or decimal, and the recursive case occurs when the input value is a list.</li>
 <li>The call stack in the function from Exercise 2 will depend on the dimensionality of the elements in the input array.</li>
 </ul>
-<p>References</p>
 
 
 

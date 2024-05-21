@@ -123,21 +123,21 @@
     "href": "posts/SelectionSort/SelectionSort.html",
     "title": "Selection Sort",
     "section": "",
-    "text": "Implement the selection sort algorithm, analyze its performance and complexity in different scenarios. Implement a recursive function to familiarize ourselves with applying recursive algorithms or functions."
+    "text": "Implement the selection sort algorithm, analyze its performance and complexity in different scenarios.\nImplement a recursive function to familiarize ourselves with applying recursive algorithms or functions."
   },
   {
     "objectID": "posts/SelectionSort/SelectionSort.html#objectives",
     "href": "posts/SelectionSort/SelectionSort.html#objectives",
     "title": "Selection Sort",
     "section": "",
-    "text": "Implement the selection sort algorithm, analyze its performance and complexity in different scenarios. Implement a recursive function to familiarize ourselves with applying recursive algorithms or functions."
+    "text": "Implement the selection sort algorithm, analyze its performance and complexity in different scenarios.\nImplement a recursive function to familiarize ourselves with applying recursive algorithms or functions."
   },
   {
     "objectID": "posts/SelectionSort/SelectionSort.html#introduction",
     "href": "posts/SelectionSort/SelectionSort.html#introduction",
     "title": "Selection Sort",
     "section": "Introduction",
-    "text": "Introduction\nSorting a dataset involves arranging the data collection to establish an accurate relationship, in this case, order. Sorting is one of the most studied problems in computer science, resulting in many algorithms of varying efficiency that sort elements such as names, indices, letters, etc. (Necaise 2011). Selection sort is one of these sorting algorithms and is based on creating a new list where it places the values it is sorting. Its efficiency is \\[ O(n^{2}) \\] .\nRecursion is a process for solving problems and a powerful programming tool to solve a larger problem by subdividing it into smaller cases, then solving the smaller problem to provide a solution to the initial problem. It can be used with a wide range of problems, from basic traditional iterations to more advanced backtracking problems. In some cases, recursion is not the efficient and elegant solution (Bhargava 2024)."
+    "text": "Introduction\nSorting a dataset involves arranging the data collection to establish an accurate relationship, in this case, order. Sorting is one of the most studied problems in computer science, resulting in many algorithms of varying efficiency that sort elements such as names, indices, letters, etc. (Necaise 2011). Selection sort is one of these sorting algorithms and is based on creating a new list where it places the values it is sorting. Its efficiency is $ O(n^{2}) $ .\nRecursion is a process for solving problems and a powerful programming tool to solve a larger problem by subdividing it into smaller cases, then solving the smaller problem to provide a solution to the initial problem. It can be used with a wide range of problems, from basic traditional iterations to more advanced backtracking problems. In some cases, recursion is not the efficient and elegant solution (Bhargava 2024)."
   },
   {
     "objectID": "posts/SelectionSort/SelectionSort.html#exercise-1",
@@ -165,7 +165,7 @@
     "href": "posts/SelectionSort/SelectionSort.html#conclusions",
     "title": "Selection Sort",
     "section": "Conclusions",
-    "text": "Conclusions\n\nThe implementation of selection sort carried out in Exercise 1 confirms the utility of selection sort as a tool for ordering a collection of data.\nThe selection sort algorithm implemented in Exercise 1 is composed of two functions: the first, findSmallest, which returns the index of the smallest element in the array, and the second, selectionSort, which adds this element to the new sorted list and removes it from the original array.\nThe efficiency of selection sort is $ O(n^2) $ operations to sort a list of n elements.\nThe recursive function addScalarToArray implemented in Exercise 2 generalizes the algorithm for adding a scalar to an array of different dimensions. In contrast, implementing the function with the same iterative logic only solves the problem for an array of predefined dimension.\nRecursion consists of one or more base cases. In the function in Exercise 2, the base case executes when the input value is an integer or decimal, and the recursive case occurs when the input value is a list.\nThe call stack in the function from Exercise 2 will depend on the dimensionality of the elements in the input array.\n\nReferences"
+    "text": "Conclusions\n\nThe implementation of selection sort carried out in Exercise 1 confirms the utility of selection sort as a tool for ordering a collection of data.\nThe selection sort algorithm implemented in Exercise 1 is composed of two functions: the first, findSmallest, which returns the index of the smallest element in the array, and the second, selectionSort, which adds this element to the new sorted list and removes it from the original array.\nThe efficiency of selection sort is $ O(n^{2}) $ operations to sort a list of n elements.\nThe recursive function addScalarToArray implemented in Exercise 2 generalizes the algorithm for adding a scalar to an array of different dimensions. In contrast, implementing the function with the same iterative logic only solves the problem for an array of predefined dimension.\nRecursion consists of one or more base cases. In the function in Exercise 2, the base case executes when the input value is an integer or decimal, and the recursive case occurs when the input value is a list.\nThe call stack in the function from Exercise 2 will depend on the dimensionality of the elements in the input array."
   },
   {
     "objectID": "posts/stravaFolium/Strava_gpx_plot.html",
