@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/Strava_pydeck/StavaPydeckSegment.html",
       "/posts/welcome/index.html",
       "/posts/BFS_DFS/BFS.html",
       "/posts/stravaFolium/Strava_gpx_plot.html",
@@ -13,6 +14,7 @@
   {
     "listing": "/notebooks.html",
     "items": [
+      "/posts/Strava_pydeck/StavaPydeckSegment.html",
       "/posts/welcome/index.html",
       "/posts/BFS_DFS/BFS.html",
       "/posts/stravaFolium/Strava_gpx_plot.html",

@@ -2,38 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/about.html</loc>
-    <lastmod>2024-05-23T00:25:26.662Z</lastmod>
+    <lastmod>2024-05-28T02:40:22.707Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/index.html</loc>
-    <lastmod>2024-05-23T00:25:28.757Z</lastmod>
+    <lastmod>2024-05-28T02:40:24.692Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/notebooks.html</loc>
-    <lastmod>2024-05-23T00:25:30.132Z</lastmod>
+    <lastmod>2024-05-28T02:40:26.076Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/posts/BFS_DFS/BFS.html</loc>
-    <lastmod>2024-05-23T00:25:31.646Z</lastmod>
+    <lastmod>2024-05-28T02:40:27.148Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/posts/post-with-code/stravaPlotOSMNX.html</loc>
-    <lastmod>2024-05-23T00:25:32.713Z</lastmod>
+    <lastmod>2024-05-28T02:40:27.882Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/posts/SelectionSort/SelectionSort.html</loc>
-    <lastmod>2024-05-23T00:25:33.606Z</lastmod>
+    <lastmod>2024-05-28T02:40:28.751Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/posts/StableMachin/StableMachin.html</loc>
-    <lastmod>2024-05-23T00:25:34.474Z</lastmod>
+    <lastmod>2024-05-28T02:40:29.479Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/posts/stravaFolium/Strava_gpx_plot.html</loc>
-    <lastmod>2024-05-23T00:25:35.278Z</lastmod>
+    <lastmod>2024-05-28T02:40:30.369Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/Strava_pydeck/StavaPydeckSegment.html</loc>
+    <lastmod>2024-05-28T02:40:33.417Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/posts/welcome/index.html</loc>
-    <lastmod>2024-05-23T00:25:35.885Z</lastmod>
+    <lastmod>2024-05-28T02:40:33.927Z</lastmod>
   </url>
 </urlset>
