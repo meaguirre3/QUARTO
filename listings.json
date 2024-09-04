@@ -2,8 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/StravaRidgeMap/Visual_Segments.html",
       "/posts/Strava_pydeck/StavaPydeckSegment.html",
-      "/posts/welcome/index.html",
       "/posts/BFS_DFS/BFS.html",
       "/posts/stravaFolium/Strava_gpx_plot.html",
       "/posts/post-with-code/stravaPlotOSMNX.html",
@@ -14,8 +14,8 @@
   {
     "listing": "/notebooks.html",
     "items": [
+      "/posts/StravaRidgeMap/Visual_Segments.html",
       "/posts/Strava_pydeck/StavaPydeckSegment.html",
-      "/posts/welcome/index.html",
       "/posts/BFS_DFS/BFS.html",
       "/posts/stravaFolium/Strava_gpx_plot.html",
       "/posts/post-with-code/stravaPlotOSMNX.html",
