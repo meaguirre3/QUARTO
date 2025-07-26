@@ -2,7 +2,7 @@
   {
     "listing": "/notebooks.html",
     "items": [
-      "/posts/welcome/index.html",
+      "/posts/PlotEcuador/HeatEcuador.html",
       "/posts/BFS_DFS/BFS.html",
       "/posts/stravaFolium/Strava_gpx_plot.html",
       "/posts/post-with-code/stravaPlotOSMNX.html"
@@ -11,7 +11,7 @@
   {
     "listing": "/about.html",
     "items": [
-      "/posts/welcome/index.html",
+      "/posts/PlotEcuador/HeatEcuador.html",
       "/posts/BFS_DFS/BFS.html",
       "/posts/stravaFolium/Strava_gpx_plot.html",
       "/posts/post-with-code/stravaPlotOSMNX.html"

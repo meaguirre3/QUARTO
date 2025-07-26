@@ -1,59 +1,45 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/stravaFolium/Strava_gpx_plot.html",
+    "href": "posts/stravaFolium/Strava_gpx_plot.html",
+    "title": "Strava GPX Plotter: Mapping Beautiful Journeys with Folium in Python",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "“Strava GPX Plotter: Mapping Beautiful Journeys with Folium in Python” is a tool that allows users to visualize their Strava activities on interactive maps. By using Python and the Folium library, this tool reads GPX files from Strava and plots the routes on a map, highlighting the beauty of each journey. Users can customize the maps, adding markers and different styles to enhance the visual appeal. This tool is perfect for athletes and outdoor enthusiasts who want to see their activities in a new light, making it easy to share and analyze their adventures.\nimport pandas as pd\nimport gpxpy\nimport gpxpy.gpx\nimport matplotlib.pyplot as plt\nimport os\nimport folium"
   },
   {
-    "objectID": "posts/post-with-code/stravaPlotOSMNX.html",
-    "href": "posts/post-with-code/stravaPlotOSMNX.html",
-    "title": "Strava Route Plot OSMNX",
+    "objectID": "posts/stravaFolium/Strava_gpx_plot.html#read-gpx-file",
+    "href": "posts/stravaFolium/Strava_gpx_plot.html#read-gpx-file",
+    "title": "Strava GPX Plotter: Mapping Beautiful Journeys with Folium in Python",
+    "section": "Read gpx File",
+    "text": "Read gpx File\n\n# path from gpx file\npath = \"Princesa_Toa_.gpx\"\n# load data from gpx strava activity and parse\nwith open(path, 'r') as gpx_file:\n    gpx = gpxpy.parse(gpx_file)"
+  },
+  {
+    "objectID": "posts/stravaFolium/Strava_gpx_plot.html#extract-latitude-longitude-and-elevation",
+    "href": "posts/stravaFolium/Strava_gpx_plot.html#extract-latitude-longitude-and-elevation",
+    "title": "Strava GPX Plotter: Mapping Beautiful Journeys with Folium in Python",
+    "section": "Extract latitude, longitude and elevation",
+    "text": "Extract latitude, longitude and elevation\n\n# extract in gpx file latitude, longitude  and elevation\nroute_info = [{'latitude': point.latitude,'longitude': point.longitude,'elevation': point.elevation} \n              for track   in gpx.tracks  \n              for segment in track.segments \n              for point   in segment.points ]\n\n\n# route_df Dataframe\ndf = pd.DataFrame(route_info)\ndf.head()\n\n\n\n\n\n\n\n\nlatitude\nlongitude\nelevation\n\n\n\n\n0\n-0.216083\n-78.436892\n2388.8\n\n\n1\n-0.216085\n-78.436895\n2388.8\n\n\n2\n-0.216141\n-78.436849\n2388.9\n\n\n3\n-0.216161\n-78.436832\n2388.9\n\n\n4\n-0.216211\n-78.436803\n2389.0\n\n\n\n\n\n\n\n\n# Calculate the middle index\nmiddle_index = len(df) // 2\n# Get the middle element using iloc\npoint  = df.iloc[middle_index]"
+  },
+  {
+    "objectID": "posts/PlotEcuador/HeatEcuador.html",
+    "href": "posts/PlotEcuador/HeatEcuador.html",
+    "title": "Ecuador Geo-Visualization: Heatmap by Region",
     "section": "",
-    "text": "Strava Route Plot using OSMnx involves visualizing and analyzing running or cycling routes recorded with the Strava app on maps generated with the OSMnx library. OSMnx is a Python package that allows users to download, model, and visualize street networks from OpenStreetMap’s data.\nimport osmnx as ox\nimport pandas as pd\nimport gpxpy\nimport gpxpy.gpx\nimport matplotlib.pyplot as plt\nimport polyline"
-  },
-  {
-    "objectID": "posts/post-with-code/stravaPlotOSMNX.html#read-route",
-    "href": "posts/post-with-code/stravaPlotOSMNX.html#read-route",
-    "title": "Strava Route Plot OSMNX",
-    "section": "1. Read Route",
-    "text": "1. Read Route\n\npath = \"Princesa_Toa_.gpx\"\nwith open(path, 'r') as gpx_file:\n    gpx = gpxpy.parse(gpx_file)\n    \n# extract in gpx file latitude, longitude  and elevation\nroute_info = [{'latitude': point.latitude,'longitude': point.longitude,'elevation': point.elevation} \n              for track   in gpx.tracks  \n              for segment in track.segments \n              for point   in segment.points ]\n# route_df Dataframe\nroute_df = pd.DataFrame(route_info)\nroute_df.head()\n\n\n\n\n\n\n\n\nlatitude\nlongitude\nelevation\n\n\n\n\n0\n-0.216083\n-78.436892\n2388.8\n\n\n1\n-0.216085\n-78.436895\n2388.8\n\n\n2\n-0.216141\n-78.436849\n2388.9\n\n\n3\n-0.216161\n-78.436832\n2388.9\n\n\n4\n-0.216211\n-78.436803\n2389.0"
-  },
-  {
-    "objectID": "posts/post-with-code/stravaPlotOSMNX.html#center-point-for-graph-in-ox",
-    "href": "posts/post-with-code/stravaPlotOSMNX.html#center-point-for-graph-in-ox",
-    "title": "Strava Route Plot OSMNX",
-    "section": "2. Center point for Graph in ox",
-    "text": "2. Center point for Graph in ox\nLink osmnx graph_from_point fuction https://osmnx.readthedocs.io/en/stable/osmnx.html?highlight=graph_from_point#osmnx.graph.graph_from_point\n\n# center point to extract graph latitude , longitude\ncenter_point = (-0.26428048222240524, -78.4202862684383)\nG = ox.graph_from_point(center_point, dist=12000, retain_all=True, simplify = False, network_type='all')\n#bike all"
-  },
-  {
-    "objectID": "posts/post-with-code/stravaPlotOSMNX.html#plot-route",
-    "href": "posts/post-with-code/stravaPlotOSMNX.html#plot-route",
-    "title": "Strava Route Plot OSMNX",
-    "section": "3. Plot Route",
-    "text": "3. Plot Route\n\nfig, ax = ox.plot_graph(G, node_size=0,\n                        figsize        = (11, 16), \n                        dpi            = 300,\n                        save           = False,\n                        bgcolor        = \"#FFFFFF\",\n                        edge_color     = \"#253951\",\n                        edge_alpha     = 0.2 ,\n                        show           = False)\n## Plot  activity in graph \nplt.plot( route_df['longitude'] , route_df['latitude'] ,\n         color     = \"#E64E25\" , \n         linewidth = 2.0)\n## Plot  activity in graph \nplt.show()\nfig.tight_layout(pad=0)\n## path name to save\npath_save = path.split(\".\")[0] + \".png\"\n# fig.savefig( path_save, dpi=300, format=\"png\", bbox_inches='tight',\n#             facecolor=fig.get_facecolor(), transparent=False)\n\n\n\n\n\n\n\n\n\n# save figure\nfig.savefig('activity.png')"
-  },
-  {
-    "objectID": "posts/post-with-code/stravaPlotOSMNX.html#plot-elevation",
-    "href": "posts/post-with-code/stravaPlotOSMNX.html#plot-elevation",
-    "title": "Strava Route Plot OSMNX",
-    "section": "4. Plot Elevation",
-    "text": "4. Plot Elevation\n\nelevation = route_df.elevation\nx_plot    = range(len(elevation))\nmin_elev  = min(elevation) - 25\n\n\n# Set the figure size\nfig, ax = plt.subplots(figsize=(11, 2))\n# Area plot\nax.fill_between(x_plot, elevation, color=\"#E64E25\")\n# Set the minimum and maximum values for the y-axis\nax.set_ylim(min_elev, 4000)\nplt.axis('off')\n# Save the figure\npath_save = path.split(\".\")[0] +\"_elevation\" \".png\"\nplt.savefig(path_save , transparent=True, bbox_inches='tight', pad_inches=0 )\n# Display the plot\nplt.show()\n\n\n\n\n\n\n\n\n\nfig.savefig('perfil.png')"
+    "text": "This project presents an interactive choropleth map of Ecuador using the Folium library, which combines Python with Leaflet.js for dynamic geographic visualizations. The objective is to visually represent region-based intensity data — such as metrics from surveys, socioeconomic indicators, or other analytics — on a province-level map of Ecuador."
   },
   {
     "objectID": "notebooks.html",
     "href": "notebooks.html",
     "title": "Notebooks",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 14, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm Depth-First Search (DFS) AND Breadth-First Search (BFS)\n\n\n\nnews\n\ncode\n\nalgorithms\n\nPython\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nStrava GPX Plotter: Mapping Beautiful Journeys with Folium in Python\n\n\n\nnews\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nStrava Route Plot OSMNX\n\n\n\nnews\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nMar 17, 2022\n\n\nMarco Aguirre\n\n\n\n\n\nNo matching items"
+    "text": "Ecuador Geo-Visualization: Heatmap by Region\n\n\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nJul 26, 2025\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm Depth-First Search (DFS) AND Breadth-First Search (BFS)\n\n\n\nnews\n\ncode\n\nalgorithms\n\nPython\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nStrava GPX Plotter: Mapping Beautiful Journeys with Folium in Python\n\n\n\nnews\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nStrava Route Plot OSMNX\n\n\n\nnews\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nMar 17, 2022\n\n\nMarco Aguirre\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Marco Aguirre",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 14, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm Depth-First Search (DFS) AND Breadth-First Search (BFS)\n\n\n\nnews\n\ncode\n\nalgorithms\n\nPython\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nStrava GPX Plotter: Mapping Beautiful Journeys with Folium in Python\n\n\n\nnews\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nStrava Route Plot OSMNX\n\n\n\nnews\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nMar 17, 2022\n\n\nMarco Aguirre\n\n\n\n\n\nNo matching items"
+    "text": "Ecuador Geo-Visualization: Heatmap by Region\n\n\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nJul 26, 2025\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm Depth-First Search (DFS) AND Breadth-First Search (BFS)\n\n\n\nnews\n\ncode\n\nalgorithms\n\nPython\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nStrava GPX Plotter: Mapping Beautiful Journeys with Folium in Python\n\n\n\nnews\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nStrava Route Plot OSMNX\n\n\n\nnews\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nMar 17, 2022\n\n\nMarco Aguirre\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -133,24 +119,45 @@
     "text": "4. Exercise 2\n\nD. Problem Statement\nWhat are the DFS Trees for the following graph G, given that the starting node is 0? Implement the DFS algorithm (using the recursive method) and use the necessary auxiliary structures.\n\n\n\n\n\ngraph TD\n    0 &lt;--&gt; 2\n    0 &lt;--&gt; 1\n    0 &lt;--&gt; 5\n    1 &lt;--&gt; 2\n    2 &lt;--&gt; 3\n    2 &lt;--&gt; 4\n    3 &lt;--&gt; 5\n    3 &lt;--&gt; 4\n    6 &lt;--&gt; 7\n\n\n\n\n\n\n\n\ndef dfs( graph, node,visited=set()):\n    \"\"\"algortimo dfs\n        Args:\n            graph :(dict) diccionario que representa grafo\n            node :(str) nodo fuente o raiz\n            visited:control nodos visitados default set()\n        return:\n            ruta list() : lista que contiene la ruta\n    \"\"\"\n    if node not in visited: ##comparacion si el nodo no se ha visitad\n        print (node)##impresion de nodos visitados\n        visited.add(node) ##agregando nodos visitados\n        marked[node]=True##control de nodos visitados\n        for neighbour in graph[node]:\n            comprueba=[ nodo  for nodo in graph[node] if marked[nodo]==False ]##comprovacion\n            edgeto.update(dict.fromkeys(comprueba,node))##llenado de edgeto\n            dfs(graph, neighbour,visited)\n\n\ndef ruta_DFS(busqueda,edgeto):\n    \"\"\" Retorna ruta del componente conectado nodo inico\n        Args:\n            edgeto :(dict) diccionario que estan los nodos padres del componete conectado\n            busqueda :(str) nodo buscar\n        return:\n            ruta list() : lista que contiene la ruta\n    \"\"\"\n    ruta=[]\n    while busqueda !=\"\":\n        ruta.insert(0,busqueda)\n        busqueda=edgeto[busqueda]\n    return ruta\n\n\n\nExecution of the Algorithm\n\nDefine the graph and the starting node 0 as input parameters.\n\n\n#graph\ngraph = dict()\ngraph[\"0\"] = [\"2\", \"1\",\"5\"]\ngraph[\"1\"] = [\"0\", \"2\"]\ngraph[\"2\"] = [\"0\",\"1\",\"3\",\"4\"]\ngraph[\"3\"] = [\"5\",\"4\",\"2\"]\ngraph[\"4\"] = [\"3\",\"2\"]\ngraph[\"5\"] = [\"3\",\"0\"]\nmarked= dict.fromkeys(graph.keys(),False)\nedgeto= dict.fromkeys(graph.keys(),\"\")\n\n\nThe execution of DFS provides the complete edgeto structure, which allows generating the route tree of the connected component, the DFS Tree.\n\n\ndfs(graph,\"0\")\n\n0\n2\n1\n3\n5\n4\n\n\n\nTo obtain all the routes, the route function was executed with the edgeto obtained for each node, storing this result in the routes dictionary, which allows knowing the route from the origin to each node.\n\n\nedgeto\n\n{'0': '', '1': '2', '2': '0', '3': '2', '4': '3', '5': '3'}\n\n\n\nrutas={nodo:ruta_DFS(nodo,edgeto) for nodo in edgeto.keys()}\nrutas\n\n{'0': ['0'],\n '1': ['0', '2', '1'],\n '2': ['0', '2'],\n '3': ['0', '2', '3'],\n '4': ['0', '2', '3', '4'],\n '5': ['0', '2', '3', '5']}\n\n\n\n\n\n\n\ngraph TD\n 0 --&gt; 2\n 2 --&gt; 1\n 2 --&gt; 3\n 3 --&gt; 4\n 3 --&gt; 5"
   },
   {
-    "objectID": "posts/stravaFolium/Strava_gpx_plot.html",
-    "href": "posts/stravaFolium/Strava_gpx_plot.html",
-    "title": "Strava GPX Plotter: Mapping Beautiful Journeys with Folium in Python",
+    "objectID": "posts/post-with-code/stravaPlotOSMNX.html",
+    "href": "posts/post-with-code/stravaPlotOSMNX.html",
+    "title": "Strava Route Plot OSMNX",
     "section": "",
-    "text": "“Strava GPX Plotter: Mapping Beautiful Journeys with Folium in Python” is a tool that allows users to visualize their Strava activities on interactive maps. By using Python and the Folium library, this tool reads GPX files from Strava and plots the routes on a map, highlighting the beauty of each journey. Users can customize the maps, adding markers and different styles to enhance the visual appeal. This tool is perfect for athletes and outdoor enthusiasts who want to see their activities in a new light, making it easy to share and analyze their adventures.\nimport pandas as pd\nimport gpxpy\nimport gpxpy.gpx\nimport matplotlib.pyplot as plt\nimport os\nimport folium"
+    "text": "Strava Route Plot using OSMnx involves visualizing and analyzing running or cycling routes recorded with the Strava app on maps generated with the OSMnx library. OSMnx is a Python package that allows users to download, model, and visualize street networks from OpenStreetMap’s data.\nimport osmnx as ox\nimport pandas as pd\nimport gpxpy\nimport gpxpy.gpx\nimport matplotlib.pyplot as plt\nimport polyline"
   },
   {
-    "objectID": "posts/stravaFolium/Strava_gpx_plot.html#read-gpx-file",
-    "href": "posts/stravaFolium/Strava_gpx_plot.html#read-gpx-file",
-    "title": "Strava GPX Plotter: Mapping Beautiful Journeys with Folium in Python",
-    "section": "Read gpx File",
-    "text": "Read gpx File\n\n# path from gpx file\npath = \"Princesa_Toa_.gpx\"\n# load data from gpx strava activity and parse\nwith open(path, 'r') as gpx_file:\n    gpx = gpxpy.parse(gpx_file)"
+    "objectID": "posts/post-with-code/stravaPlotOSMNX.html#read-route",
+    "href": "posts/post-with-code/stravaPlotOSMNX.html#read-route",
+    "title": "Strava Route Plot OSMNX",
+    "section": "1. Read Route",
+    "text": "1. Read Route\n\npath = \"Princesa_Toa_.gpx\"\nwith open(path, 'r') as gpx_file:\n    gpx = gpxpy.parse(gpx_file)\n    \n# extract in gpx file latitude, longitude  and elevation\nroute_info = [{'latitude': point.latitude,'longitude': point.longitude,'elevation': point.elevation} \n              for track   in gpx.tracks  \n              for segment in track.segments \n              for point   in segment.points ]\n# route_df Dataframe\nroute_df = pd.DataFrame(route_info)\nroute_df.head()\n\n\n\n\n\n\n\n\nlatitude\nlongitude\nelevation\n\n\n\n\n0\n-0.216083\n-78.436892\n2388.8\n\n\n1\n-0.216085\n-78.436895\n2388.8\n\n\n2\n-0.216141\n-78.436849\n2388.9\n\n\n3\n-0.216161\n-78.436832\n2388.9\n\n\n4\n-0.216211\n-78.436803\n2389.0"
   },
   {
-    "objectID": "posts/stravaFolium/Strava_gpx_plot.html#extract-latitude-longitude-and-elevation",
-    "href": "posts/stravaFolium/Strava_gpx_plot.html#extract-latitude-longitude-and-elevation",
-    "title": "Strava GPX Plotter: Mapping Beautiful Journeys with Folium in Python",
-    "section": "Extract latitude, longitude and elevation",
-    "text": "Extract latitude, longitude and elevation\n\n# extract in gpx file latitude, longitude  and elevation\nroute_info = [{'latitude': point.latitude,'longitude': point.longitude,'elevation': point.elevation} \n              for track   in gpx.tracks  \n              for segment in track.segments \n              for point   in segment.points ]\n\n\n# route_df Dataframe\ndf = pd.DataFrame(route_info)\ndf.head()\n\n\n\n\n\n\n\n\nlatitude\nlongitude\nelevation\n\n\n\n\n0\n-0.216083\n-78.436892\n2388.8\n\n\n1\n-0.216085\n-78.436895\n2388.8\n\n\n2\n-0.216141\n-78.436849\n2388.9\n\n\n3\n-0.216161\n-78.436832\n2388.9\n\n\n4\n-0.216211\n-78.436803\n2389.0\n\n\n\n\n\n\n\n\n# Calculate the middle index\nmiddle_index = len(df) // 2\n# Get the middle element using iloc\npoint  = df.iloc[middle_index]"
+    "objectID": "posts/post-with-code/stravaPlotOSMNX.html#center-point-for-graph-in-ox",
+    "href": "posts/post-with-code/stravaPlotOSMNX.html#center-point-for-graph-in-ox",
+    "title": "Strava Route Plot OSMNX",
+    "section": "2. Center point for Graph in ox",
+    "text": "2. Center point for Graph in ox\nLink osmnx graph_from_point fuction https://osmnx.readthedocs.io/en/stable/osmnx.html?highlight=graph_from_point#osmnx.graph.graph_from_point\n\n# center point to extract graph latitude , longitude\ncenter_point = (-0.26428048222240524, -78.4202862684383)\nG = ox.graph_from_point(center_point, dist=12000, retain_all=True, simplify = False, network_type='all')\n#bike all"
+  },
+  {
+    "objectID": "posts/post-with-code/stravaPlotOSMNX.html#plot-route",
+    "href": "posts/post-with-code/stravaPlotOSMNX.html#plot-route",
+    "title": "Strava Route Plot OSMNX",
+    "section": "3. Plot Route",
+    "text": "3. Plot Route\n\nfig, ax = ox.plot_graph(G, node_size=0,\n                        figsize        = (11, 16), \n                        dpi            = 300,\n                        save           = False,\n                        bgcolor        = \"#FFFFFF\",\n                        edge_color     = \"#253951\",\n                        edge_alpha     = 0.2 ,\n                        show           = False)\n## Plot  activity in graph \nplt.plot( route_df['longitude'] , route_df['latitude'] ,\n         color     = \"#E64E25\" , \n         linewidth = 2.0)\n## Plot  activity in graph \nplt.show()\nfig.tight_layout(pad=0)\n## path name to save\npath_save = path.split(\".\")[0] + \".png\"\n# fig.savefig( path_save, dpi=300, format=\"png\", bbox_inches='tight',\n#             facecolor=fig.get_facecolor(), transparent=False)\n\n\n\n\n\n\n\n\n\n# save figure\nfig.savefig('activity.png')"
+  },
+  {
+    "objectID": "posts/post-with-code/stravaPlotOSMNX.html#plot-elevation",
+    "href": "posts/post-with-code/stravaPlotOSMNX.html#plot-elevation",
+    "title": "Strava Route Plot OSMNX",
+    "section": "4. Plot Elevation",
+    "text": "4. Plot Elevation\n\nelevation = route_df.elevation\nx_plot    = range(len(elevation))\nmin_elev  = min(elevation) - 25\n\n\n# Set the figure size\nfig, ax = plt.subplots(figsize=(11, 2))\n# Area plot\nax.fill_between(x_plot, elevation, color=\"#E64E25\")\n# Set the minimum and maximum values for the y-axis\nax.set_ylim(min_elev, 4000)\nplt.axis('off')\n# Save the figure\npath_save = path.split(\".\")[0] +\"_elevation\" \".png\"\nplt.savefig(path_save , transparent=True, bbox_inches='tight', pad_inches=0 )\n# Display the plot\nplt.show()\n\n\n\n\n\n\n\n\n\nfig.savefig('perfil.png')"
+  },
+  {
+    "objectID": "posts/PlotEcuador/HeatEcuador.html#create-synthetic-data-for-plot",
+    "href": "posts/PlotEcuador/HeatEcuador.html#create-synthetic-data-for-plot",
+    "title": "Ecuador Geo-Visualization: Heatmap by Region",
+    "section": "Create Synthetic Data for Plot",
+    "text": "Create Synthetic Data for Plot\n\n\ndata = pd.DataFrame({\n    \"intensidad\": np.random.uniform(0, 100, size=24)\n})\ndraw_map(data, \"intensidad\")\n\n&lt;positron-console-cell-19&gt;:35: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook"
   }
 ]
