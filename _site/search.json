@@ -28,6 +28,13 @@
     "text": "This project presents an interactive choropleth map of Ecuador using the Folium library, which combines Python with Leaflet.js for dynamic geographic visualizations. The objective is to visually represent region-based intensity data — such as metrics from surveys, socioeconomic indicators, or other analytics — on a province-level map of Ecuador."
   },
   {
+    "objectID": "posts/PlotEcuador/HeatEcuador.html#create-synthetic-data-for-plot",
+    "href": "posts/PlotEcuador/HeatEcuador.html#create-synthetic-data-for-plot",
+    "title": "Ecuador Geo-Visualization: Heatmap by Region",
+    "section": "Create Synthetic Data for Plot",
+    "text": "Create Synthetic Data for Plot\n\n\ndata = pd.DataFrame({\n    \"intensidad\": np.random.uniform(0, 100, size=24)\n})\ndraw_map(data, \"intensidad\")\n\n&lt;positron-console-cell-19&gt;:35: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook"
+  },
+  {
     "objectID": "notebooks.html",
     "href": "notebooks.html",
     "title": "Notebooks",
@@ -152,12 +159,5 @@
     "title": "Strava Route Plot OSMNX",
     "section": "4. Plot Elevation",
     "text": "4. Plot Elevation\n\nelevation = route_df.elevation\nx_plot    = range(len(elevation))\nmin_elev  = min(elevation) - 25\n\n\n# Set the figure size\nfig, ax = plt.subplots(figsize=(11, 2))\n# Area plot\nax.fill_between(x_plot, elevation, color=\"#E64E25\")\n# Set the minimum and maximum values for the y-axis\nax.set_ylim(min_elev, 4000)\nplt.axis('off')\n# Save the figure\npath_save = path.split(\".\")[0] +\"_elevation\" \".png\"\nplt.savefig(path_save , transparent=True, bbox_inches='tight', pad_inches=0 )\n# Display the plot\nplt.show()\n\n\n\n\n\n\n\n\n\nfig.savefig('perfil.png')"
-  },
-  {
-    "objectID": "posts/PlotEcuador/HeatEcuador.html#create-synthetic-data-for-plot",
-    "href": "posts/PlotEcuador/HeatEcuador.html#create-synthetic-data-for-plot",
-    "title": "Ecuador Geo-Visualization: Heatmap by Region",
-    "section": "Create Synthetic Data for Plot",
-    "text": "Create Synthetic Data for Plot\n\n\ndata = pd.DataFrame({\n    \"intensidad\": np.random.uniform(0, 100, size=24)\n})\ndraw_map(data, \"intensidad\")\n\n&lt;positron-console-cell-19&gt;:35: MatplotlibDeprecationWarning: The get_cmap function was deprecated in Matplotlib 3.7 and will be removed in 3.11. Use ``matplotlib.colormaps[name]`` or ``matplotlib.colormaps.get_cmap()`` or ``pyplot.get_cmap()`` instead.\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook"
   }
 ]
