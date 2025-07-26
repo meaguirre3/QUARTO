@@ -1,54 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Marco Aguirre",
-    "section": "",
-    "text": "Master of Computer Science with a focus on Intelligent Systems, seeking to provide support and solutions to optimize processes and make data-driven decisions. Passionate about problem-solving and innovation through data science."
-  },
-  {
-    "objectID": "about.html#professional-summary",
-    "href": "about.html#professional-summary",
-    "title": "Marco Aguirre",
-    "section": "",
-    "text": "Master of Computer Science with a focus on Intelligent Systems, seeking to provide support and solutions to optimize processes and make data-driven decisions. Passionate about problem-solving and innovation through data science."
-  },
-  {
-    "objectID": "about.html#professional-objective",
-    "href": "about.html#professional-objective",
-    "title": "Marco Aguirre",
-    "section": "Professional Objective",
-    "text": "Professional Objective\nTo apply my experience in Data Analysis, Machine Learning, Information Technology, and software development to solve complex problems and provide data-driven solutions that drive informed decision-making within an organization. Committed to the continuous pursuit of excellence in data science, exploring new techniques, and innovatively using technology to address business challenges."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Marco Aguirre",
-    "section": "Education",
-    "text": "Education\n\nMaster of Computer Science with a focus on Intelligent Systems | National Polytechnic School | Quito, Ecuador | 2021 - 2023|\nElectronics and Telecommunications Engineering |Armed Forces University - ESPE | Sangolqui, Ecuador | 2012 - 2018"
-  },
-  {
-    "objectID": "about.html#professional-experience",
-    "href": "about.html#professional-experience",
-    "title": "Marco Aguirre",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n\nResearch Technician | National Polytechnic School | 2021 - 2023 | Management and analysis of research with data and its collection, cleaning, analysis, preprocessing, and modeling. Development of Data Mining projects.\nTechnical Support | FIXGROUP | 2019 - 2021 | Management of wireless links, design of hotspots, and managed Wi-Fi through Aruba.\nResearch Assistant | Armed Forces University ESPE | 2017 - 2018 | Management of wireless networks and exploration of new wireless communication technologies."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marco Aguirre",
-    "section": "",
-    "text": "Strava plot Segments\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nvisualization\n\n\n\n\n\n\n\n\n\n\n\nSep 9, 2024\n\n\nMarco Aguirre\n\n\n\n\n\n\n  \n\n\n\n\nStrava Information Plot pydeck\n\n\n\n\n\n\n\ncode\n\n\nalgorithms\n\n\nPython\n\n\nStrava\n\n\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\nMarco Aguirre\n\n\n\n\n\n\n  \n\n\n\n\nAlgorithm Depth-First Search (DFS) AND Breadth-First Search (BFS)\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nalgorithms\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n  \n\n\n\n\nStrava GPX Plotter: Mapping Beautiful Journeys with Folium in Python\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nvisualization\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n  \n\n\n\n\nStrava Route Plot OSMNX\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nvisualization\n\n\n\n\n\n\n\n\n\n\n\nMar 17, 2022\n\n\nMarco Aguirre\n\n\n\n\n\n\n  \n\n\n\n\nStable Matching\n\n\n\n\n\n\n\ncode\n\n\nalgorithms\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\n\nJan 12, 2022\n\n\nMarco Aguirre\n\n\n\n\n\n\n  \n\n\n\n\nSelection Sort\n\n\n\n\n\n\n\ncode\n\n\nalgorithms\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\nDec 23, 2021\n\n\nMarco Aguirre\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "notebooks.html",
-    "href": "notebooks.html",
-    "title": "Notebooks",
-    "section": "",
-    "text": "Strava plot Segments\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nvisualization\n\n\n\n\n\n\n\n\n\n\n\nSep 9, 2024\n\n\nMarco Aguirre\n\n\n\n\n\n\n  \n\n\n\n\nStrava Information Plot pydeck\n\n\n\n\n\n\n\ncode\n\n\nalgorithms\n\n\nPython\n\n\nStrava\n\n\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\nMarco Aguirre\n\n\n\n\n\n\n  \n\n\n\n\nAlgorithm Depth-First Search (DFS) AND Breadth-First Search (BFS)\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nalgorithms\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n  \n\n\n\n\nStrava GPX Plotter: Mapping Beautiful Journeys with Folium in Python\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nvisualization\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n  \n\n\n\n\nStrava Route Plot OSMNX\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nvisualization\n\n\n\n\n\n\n\n\n\n\n\nMar 17, 2022\n\n\nMarco Aguirre\n\n\n\n\n\n\n  \n\n\n\n\nStable Matching\n\n\n\n\n\n\n\ncode\n\n\nalgorithms\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\n\nJan 12, 2022\n\n\nMarco Aguirre\n\n\n\n\n\n\n  \n\n\n\n\nSelection Sort\n\n\n\n\n\n\n\ncode\n\n\nalgorithms\n\n\nPython\n\n\n\n\n\n\n\n\n\n\n\nDec 23, 2021\n\n\nMarco Aguirre\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "posts/BFS_DFS/BFS.html",
     "href": "posts/BFS_DFS/BFS.html",
     "title": "Algorithm Depth-First Search (DFS) AND Breadth-First Search (BFS)",
@@ -74,14 +25,98 @@
     "href": "posts/BFS_DFS/BFS.html#exercise-1",
     "title": "Algorithm Depth-First Search (DFS) AND Breadth-First Search (BFS)",
     "section": "3. Exercise 1",
-    "text": "3. Exercise 1\n\nA. Problem Statement\nImplement the BFS algorithm to answer the following questions: 1. Is there a path from CAB to BAT? 2. What is that path?\n\n\n\n\ngraph TD\n    CAB  --&gt; CAT \n    CAB  --&gt; CAR\n    CAR --&gt; CAT\n    CAR --&gt; BAR\n    CAT --&gt; MAT\n    CAT --&gt; BAT\n    MAT --&gt; BAT\n    BAR --&gt; MAT\n\n\n\n\n\n\n\n\nB. Implementation in Python\nTo implement the BFS algorithm in Python, a queue is used to enqueue the neighbor nodes of each source node. In the BFS function, two dictionaries are created: one called marked to mark nodes that have already been enqueued, and edgeto to assign each node its preceding node.\n\nfrom collections import deque\n\ndef busqueda_BFS(name,graph):\n    \"\"\"\n    busqueda_BFS Search Algorithm\n\n    Args:\n        start (str): The starting node.\n        graph (dict): The graph represented as an adjacency list.\n\n    Returns:\n        edgeto (dict): A dictionary containing the parent nodes of the connected component.\n    \"\"\"\n    ##############ESTRUCTURAS AUXILIARES \n    marked= dict.fromkeys(graph.keys(),False)\n    marked[name]=True\n    edgeto={name:\"inicio\"}\n    edgeto.update(dict.fromkeys(graph[name],name))\n    marked.update(dict.fromkeys(graph[name],True))\n    ##############ESTRUCTURAS AUXILIARES \n    search_queue = deque()\n    search_queue += graph[name] \n    searched = [] \n    while search_queue:\n        person = search_queue.popleft() \n        if not person in searched: \n            comprueba=[ nodo  for nodo in graph[person] if marked[nodo]==False ]\n            edgeto.update(dict.fromkeys(comprueba,person))\n            marked.update(dict.fromkeys(comprueba,True))\n            search_queue += graph[person] \n            searched.append(person)\n    return edgeto\n\ndef ruta(busqueda,edgeto):\n    \"\"\" Retorna ruta del componente conectado nodo inico\n        Args:\n            edgeto :(dict) diccionario que estan los nodos padres del componete conectado\n            busqueda :(str) nodo buscar\n        return:\n            ruta list() : lista que contiene la ruta\n    \"\"\"\n    ruta=[]\n    if (busqueda in edgeto.keys()):\n        while busqueda !=\"inicio\":\n            ruta.insert(0,busqueda)\n            busqueda=edgeto[busqueda]   \n    return ruta\n\n\n\nC. Execution of the Algorithm\n\nThe graph is constructed using a Python dictionary where the key is the node, and the value is a list of the node’s neighbors. Note that the graph to be analyzed (Illustration) is directed, so only the target neighbors should be included.\n\n\ngraph = {}\ngraph[\"CAB\"] = [\"CAT\", \"CAR\"]\ngraph[\"CAR\"] = [\"CAT\", \"BAR\"]\ngraph[\"CAT\"] = [\"MAT\",\"BAT\"]\ngraph[\"MAT\"] = [\"BAT\"]\ngraph[\"BAR\"] = [\"MAT\"]\ngraph[\"BAT\"] = []\n\n\nedgeto=busqueda_BFS(\"CAB\",graph)\nedgeto\n\n{'CAB': 'inicio',\n 'CAT': 'CAB',\n 'CAR': 'CAB',\n 'MAT': 'CAT',\n 'BAT': 'CAT',\n 'BAR': 'CAR'}\n\n\n\nruta(\"BAT\",edgeto)\n\n['CAB', 'CAT', 'BAT']\n\n\n\n\n\n\ngraph TD\n    CAB --&gt; CAT\n    CAT --&gt; BAT\n\n\n\n\n\n\n\nrutas={nodo:ruta(nodo,edgeto) for nodo in edgeto.keys()}\nrutas\n\n{'CAB': ['CAB'],\n 'CAT': ['CAB', 'CAT'],\n 'CAR': ['CAB', 'CAR'],\n 'MAT': ['CAB', 'CAT', 'MAT'],\n 'BAT': ['CAB', 'CAT', 'BAT'],\n 'BAR': ['CAB', 'CAR', 'BAR']}\n\n\n\n\n\n\ngraph TD\n    CAB --&gt; CAT\n    CAB --&gt; CAR\n    CAT --&gt; MAT\n    CAT --&gt; BAT\n    CAR --&gt; BAR"
+    "text": "3. Exercise 1\n\nA. Problem Statement\nImplement the BFS algorithm to answer the following questions: 1. Is there a path from CAB to BAT? 2. What is that path?\n\n\n\n\n\ngraph TD\n    CAB  --&gt; CAT \n    CAB  --&gt; CAR\n    CAR --&gt; CAT\n    CAR --&gt; BAR\n    CAT --&gt; MAT\n    CAT --&gt; BAT\n    MAT --&gt; BAT\n    BAR --&gt; MAT\n\n\n\n\n\n\n\n\n\nB. Implementation in Python\nTo implement the BFS algorithm in Python, a queue is used to enqueue the neighbor nodes of each source node. In the BFS function, two dictionaries are created: one called marked to mark nodes that have already been enqueued, and edgeto to assign each node its preceding node.\n\nfrom collections import deque\n\ndef busqueda_BFS(name,graph):\n    \"\"\"\n    busqueda_BFS Search Algorithm\n\n    Args:\n        start (str): The starting node.\n        graph (dict): The graph represented as an adjacency list.\n\n    Returns:\n        edgeto (dict): A dictionary containing the parent nodes of the connected component.\n    \"\"\"\n    ##############ESTRUCTURAS AUXILIARES \n    marked= dict.fromkeys(graph.keys(),False)\n    marked[name]=True\n    edgeto={name:\"inicio\"}\n    edgeto.update(dict.fromkeys(graph[name],name))\n    marked.update(dict.fromkeys(graph[name],True))\n    ##############ESTRUCTURAS AUXILIARES \n    search_queue = deque()\n    search_queue += graph[name] \n    searched = [] \n    while search_queue:\n        person = search_queue.popleft() \n        if not person in searched: \n            comprueba=[ nodo  for nodo in graph[person] if marked[nodo]==False ]\n            edgeto.update(dict.fromkeys(comprueba,person))\n            marked.update(dict.fromkeys(comprueba,True))\n            search_queue += graph[person] \n            searched.append(person)\n    return edgeto\n\ndef ruta(busqueda,edgeto):\n    \"\"\" Retorna ruta del componente conectado nodo inico\n        Args:\n            edgeto :(dict) diccionario que estan los nodos padres del componete conectado\n            busqueda :(str) nodo buscar\n        return:\n            ruta list() : lista que contiene la ruta\n    \"\"\"\n    ruta=[]\n    if (busqueda in edgeto.keys()):\n        while busqueda !=\"inicio\":\n            ruta.insert(0,busqueda)\n            busqueda=edgeto[busqueda]   \n    return ruta\n\n\n\nC. Execution of the Algorithm\n\nThe graph is constructed using a Python dictionary where the key is the node, and the value is a list of the node’s neighbors. Note that the graph to be analyzed (Illustration) is directed, so only the target neighbors should be included.\n\n\ngraph = {}\ngraph[\"CAB\"] = [\"CAT\", \"CAR\"]\ngraph[\"CAR\"] = [\"CAT\", \"BAR\"]\ngraph[\"CAT\"] = [\"MAT\",\"BAT\"]\ngraph[\"MAT\"] = [\"BAT\"]\ngraph[\"BAR\"] = [\"MAT\"]\ngraph[\"BAT\"] = []\n\n\nedgeto=busqueda_BFS(\"CAB\",graph)\nedgeto\n\n{'CAB': 'inicio',\n 'CAT': 'CAB',\n 'CAR': 'CAB',\n 'MAT': 'CAT',\n 'BAT': 'CAT',\n 'BAR': 'CAR'}\n\n\n\nruta(\"BAT\",edgeto)\n\n['CAB', 'CAT', 'BAT']\n\n\n\n\n\n\n\ngraph TD\n    CAB --&gt; CAT\n    CAT --&gt; BAT\n\n\n\n\n\n\n\n\nrutas={nodo:ruta(nodo,edgeto) for nodo in edgeto.keys()}\nrutas\n\n{'CAB': ['CAB'],\n 'CAT': ['CAB', 'CAT'],\n 'CAR': ['CAB', 'CAR'],\n 'MAT': ['CAB', 'CAT', 'MAT'],\n 'BAT': ['CAB', 'CAT', 'BAT'],\n 'BAR': ['CAB', 'CAR', 'BAR']}\n\n\n\n\n\n\n\ngraph TD\n    CAB --&gt; CAT\n    CAB --&gt; CAR\n    CAT --&gt; MAT\n    CAT --&gt; BAT\n    CAR --&gt; BAR"
   },
   {
     "objectID": "posts/BFS_DFS/BFS.html#exercise-2",
     "href": "posts/BFS_DFS/BFS.html#exercise-2",
     "title": "Algorithm Depth-First Search (DFS) AND Breadth-First Search (BFS)",
     "section": "4. Exercise 2",
-    "text": "4. Exercise 2\n\nD. Problem Statement\nWhat are the DFS Trees for the following graph G, given that the starting node is 0? Implement the DFS algorithm (using the recursive method) and use the necessary auxiliary structures.\n\n\n\n\ngraph TD\n    0 &lt;--&gt; 2\n    0 &lt;--&gt; 1\n    0 &lt;--&gt; 5\n    1 &lt;--&gt; 2\n    2 &lt;--&gt; 3\n    2 &lt;--&gt; 4\n    3 &lt;--&gt; 5\n    3 &lt;--&gt; 4\n    6 &lt;--&gt; 7\n\n\n\n\n\n\n\ndef dfs( graph, node,visited=set()):\n    \"\"\"algortimo dfs\n        Args:\n            graph :(dict) diccionario que representa grafo\n            node :(str) nodo fuente o raiz\n            visited:control nodos visitados default set()\n        return:\n            ruta list() : lista que contiene la ruta\n    \"\"\"\n    if node not in visited: ##comparacion si el nodo no se ha visitad\n        print (node)##impresion de nodos visitados\n        visited.add(node) ##agregando nodos visitados\n        marked[node]=True##control de nodos visitados\n        for neighbour in graph[node]:\n            comprueba=[ nodo  for nodo in graph[node] if marked[nodo]==False ]##comprovacion\n            edgeto.update(dict.fromkeys(comprueba,node))##llenado de edgeto\n            dfs(graph, neighbour,visited)\n\n\ndef ruta_DFS(busqueda,edgeto):\n    \"\"\" Retorna ruta del componente conectado nodo inico\n        Args:\n            edgeto :(dict) diccionario que estan los nodos padres del componete conectado\n            busqueda :(str) nodo buscar\n        return:\n            ruta list() : lista que contiene la ruta\n    \"\"\"\n    ruta=[]\n    while busqueda !=\"\":\n        ruta.insert(0,busqueda)\n        busqueda=edgeto[busqueda]\n    return ruta\n\n\n\nExecution of the Algorithm\n\nDefine the graph and the starting node 0 as input parameters.\n\n\n#graph\ngraph = dict()\ngraph[\"0\"] = [\"2\", \"1\",\"5\"]\ngraph[\"1\"] = [\"0\", \"2\"]\ngraph[\"2\"] = [\"0\",\"1\",\"3\",\"4\"]\ngraph[\"3\"] = [\"5\",\"4\",\"2\"]\ngraph[\"4\"] = [\"3\",\"2\"]\ngraph[\"5\"] = [\"3\",\"0\"]\nmarked= dict.fromkeys(graph.keys(),False)\nedgeto= dict.fromkeys(graph.keys(),\"\")\n\n\nThe execution of DFS provides the complete edgeto structure, which allows generating the route tree of the connected component, the DFS Tree.\n\n\ndfs(graph,\"0\")\n\n0\n2\n1\n3\n5\n4\n\n\n\nTo obtain all the routes, the route function was executed with the edgeto obtained for each node, storing this result in the routes dictionary, which allows knowing the route from the origin to each node.\n\n\nedgeto\n\n{'0': '', '1': '2', '2': '0', '3': '2', '4': '3', '5': '3'}\n\n\n\nrutas={nodo:ruta_DFS(nodo,edgeto) for nodo in edgeto.keys()}\nrutas\n\n{'0': ['0'],\n '1': ['0', '2', '1'],\n '2': ['0', '2'],\n '3': ['0', '2', '3'],\n '4': ['0', '2', '3', '4'],\n '5': ['0', '2', '3', '5']}\n\n\n\n\n\n\ngraph TD\n 0 --&gt; 2\n 2 --&gt; 1\n 2 --&gt; 3\n 3 --&gt; 4\n 3 --&gt; 5"
+    "text": "4. Exercise 2\n\nD. Problem Statement\nWhat are the DFS Trees for the following graph G, given that the starting node is 0? Implement the DFS algorithm (using the recursive method) and use the necessary auxiliary structures.\n\n\n\n\n\ngraph TD\n    0 &lt;--&gt; 2\n    0 &lt;--&gt; 1\n    0 &lt;--&gt; 5\n    1 &lt;--&gt; 2\n    2 &lt;--&gt; 3\n    2 &lt;--&gt; 4\n    3 &lt;--&gt; 5\n    3 &lt;--&gt; 4\n    6 &lt;--&gt; 7\n\n\n\n\n\n\n\n\ndef dfs( graph, node,visited=set()):\n    \"\"\"algortimo dfs\n        Args:\n            graph :(dict) diccionario que representa grafo\n            node :(str) nodo fuente o raiz\n            visited:control nodos visitados default set()\n        return:\n            ruta list() : lista que contiene la ruta\n    \"\"\"\n    if node not in visited: ##comparacion si el nodo no se ha visitad\n        print (node)##impresion de nodos visitados\n        visited.add(node) ##agregando nodos visitados\n        marked[node]=True##control de nodos visitados\n        for neighbour in graph[node]:\n            comprueba=[ nodo  for nodo in graph[node] if marked[nodo]==False ]##comprovacion\n            edgeto.update(dict.fromkeys(comprueba,node))##llenado de edgeto\n            dfs(graph, neighbour,visited)\n\n\ndef ruta_DFS(busqueda,edgeto):\n    \"\"\" Retorna ruta del componente conectado nodo inico\n        Args:\n            edgeto :(dict) diccionario que estan los nodos padres del componete conectado\n            busqueda :(str) nodo buscar\n        return:\n            ruta list() : lista que contiene la ruta\n    \"\"\"\n    ruta=[]\n    while busqueda !=\"\":\n        ruta.insert(0,busqueda)\n        busqueda=edgeto[busqueda]\n    return ruta\n\n\n\nExecution of the Algorithm\n\nDefine the graph and the starting node 0 as input parameters.\n\n\n#graph\ngraph = dict()\ngraph[\"0\"] = [\"2\", \"1\",\"5\"]\ngraph[\"1\"] = [\"0\", \"2\"]\ngraph[\"2\"] = [\"0\",\"1\",\"3\",\"4\"]\ngraph[\"3\"] = [\"5\",\"4\",\"2\"]\ngraph[\"4\"] = [\"3\",\"2\"]\ngraph[\"5\"] = [\"3\",\"0\"]\nmarked= dict.fromkeys(graph.keys(),False)\nedgeto= dict.fromkeys(graph.keys(),\"\")\n\n\nThe execution of DFS provides the complete edgeto structure, which allows generating the route tree of the connected component, the DFS Tree.\n\n\ndfs(graph,\"0\")\n\n0\n2\n1\n3\n5\n4\n\n\n\nTo obtain all the routes, the route function was executed with the edgeto obtained for each node, storing this result in the routes dictionary, which allows knowing the route from the origin to each node.\n\n\nedgeto\n\n{'0': '', '1': '2', '2': '0', '3': '2', '4': '3', '5': '3'}\n\n\n\nrutas={nodo:ruta_DFS(nodo,edgeto) for nodo in edgeto.keys()}\nrutas\n\n{'0': ['0'],\n '1': ['0', '2', '1'],\n '2': ['0', '2'],\n '3': ['0', '2', '3'],\n '4': ['0', '2', '3', '4'],\n '5': ['0', '2', '3', '5']}\n\n\n\n\n\n\n\ngraph TD\n 0 --&gt; 2\n 2 --&gt; 1\n 2 --&gt; 3\n 3 --&gt; 4\n 3 --&gt; 5"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marco Aguirre",
+    "section": "",
+    "text": "Master of Computer Science with a focus on Intelligent Systems, seeking to provide support and solutions to optimize processes and make data-driven decisions. Passionate about problem-solving and innovation through data science."
+  },
+  {
+    "objectID": "index.html#professional-summary",
+    "href": "index.html#professional-summary",
+    "title": "Marco Aguirre",
+    "section": "",
+    "text": "Master of Computer Science with a focus on Intelligent Systems, seeking to provide support and solutions to optimize processes and make data-driven decisions. Passionate about problem-solving and innovation through data science."
+  },
+  {
+    "objectID": "index.html#professional-objective",
+    "href": "index.html#professional-objective",
+    "title": "Marco Aguirre",
+    "section": "Professional Objective",
+    "text": "Professional Objective\nTo apply my experience in Data Analysis, Machine Learning, Information Technology, and software development to solve complex problems and provide data-driven solutions that drive informed decision-making within an organization. Committed to the continuous pursuit of excellence in data science, exploring new techniques, and innovatively using technology to address business challenges."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Marco Aguirre",
+    "section": "Education",
+    "text": "Education\n\nMaster of Computer Science with a focus on Intelligent Systems | National Polytechnic School | Quito, Ecuador | 2021 - 2023|\nElectronics and Telecommunications Engineering |Armed Forces University - ESPE | Sangolqui, Ecuador | 2012 - 2018"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Marco Aguirre",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nResearch Technician | National Polytechnic School | 2021 - now | Management and analysis of research with data and its collection, cleaning, analysis, preprocessing, and modeling. Development of Data Mining projects.\nTechnical Support | FIXGROUP | 2019 - 2021 | Management of wireless links, design of hotspots, and managed Wi-Fi through Aruba.\nResearch Assistant | Armed Forces University ESPE | 2017 - 2018 | Management of wireless networks and exploration of new wireless communication technologies."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Marco Aguirre",
+    "section": "Publications",
+    "text": "Publications\n\nA Graph-Based Analysis of Collaboration, Trends, and Ethical Dynamics: Perspectives on Ecuadorian Academic Research\nICEDEG 2025 - Eleventh International Conference on eDemocracy & eGovernment, 2025.\nDOI: 10.1109/ICEDEG65568.2025.11081533\nEvaluating embedded semantics for accessibility description of web crawl data\nAHFE International Conference, Vol. 94, 2023.\nDOI: 10.54941/ahfe1003774"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Marco Aguirre",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 14, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nStrava GPX Plotter: Mapping Beautiful Journeys with Folium in Python\n\n\n\nnews\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm Depth-First Search (DFS) AND Breadth-First Search (BFS)\n\n\n\nnews\n\ncode\n\nalgorithms\n\nPython\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nStrava Route Plot OSMNX\n\n\n\nnews\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nMar 17, 2022\n\n\nMarco Aguirre\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "notebooks.html",
+    "href": "notebooks.html",
+    "title": "Notebooks",
+    "section": "",
+    "text": "Welcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 14, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\n\n\n\n\n\n\nStrava GPX Plotter: Mapping Beautiful Journeys with Folium in Python\n\n\n\nnews\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm Depth-First Search (DFS) AND Breadth-First Search (BFS)\n\n\n\nnews\n\ncode\n\nalgorithms\n\nPython\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nStrava Route Plot OSMNX\n\n\n\nnews\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nMar 17, 2022\n\n\nMarco Aguirre\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/stravaFolium/Strava_gpx_plot.html",
+    "href": "posts/stravaFolium/Strava_gpx_plot.html",
+    "title": "Strava GPX Plotter: Mapping Beautiful Journeys with Folium in Python",
+    "section": "",
+    "text": "“Strava GPX Plotter: Mapping Beautiful Journeys with Folium in Python” is a tool that allows users to visualize their Strava activities on interactive maps. By using Python and the Folium library, this tool reads GPX files from Strava and plots the routes on a map, highlighting the beauty of each journey. Users can customize the maps, adding markers and different styles to enhance the visual appeal. This tool is perfect for athletes and outdoor enthusiasts who want to see their activities in a new light, making it easy to share and analyze their adventures.\nimport pandas as pd\nimport gpxpy\nimport gpxpy.gpx\nimport matplotlib.pyplot as plt\nimport os\nimport folium"
+  },
+  {
+    "objectID": "posts/stravaFolium/Strava_gpx_plot.html#read-gpx-file",
+    "href": "posts/stravaFolium/Strava_gpx_plot.html#read-gpx-file",
+    "title": "Strava GPX Plotter: Mapping Beautiful Journeys with Folium in Python",
+    "section": "Read gpx File",
+    "text": "Read gpx File\n\n# path from gpx file\npath = \"Princesa_Toa_.gpx\"\n# load data from gpx strava activity and parse\nwith open(path, 'r') as gpx_file:\n    gpx = gpxpy.parse(gpx_file)"
+  },
+  {
+    "objectID": "posts/stravaFolium/Strava_gpx_plot.html#extract-latitude-longitude-and-elevation",
+    "href": "posts/stravaFolium/Strava_gpx_plot.html#extract-latitude-longitude-and-elevation",
+    "title": "Strava GPX Plotter: Mapping Beautiful Journeys with Folium in Python",
+    "section": "Extract latitude, longitude and elevation",
+    "text": "Extract latitude, longitude and elevation\n\n# extract in gpx file latitude, longitude  and elevation\nroute_info = [{'latitude': point.latitude,'longitude': point.longitude,'elevation': point.elevation} \n              for track   in gpx.tracks  \n              for segment in track.segments \n              for point   in segment.points ]\n\n\n# route_df Dataframe\ndf = pd.DataFrame(route_info)\ndf.head()\n\n\n\n\n\n\n\n\nlatitude\nlongitude\nelevation\n\n\n\n\n0\n-0.216083\n-78.436892\n2388.8\n\n\n1\n-0.216085\n-78.436895\n2388.8\n\n\n2\n-0.216141\n-78.436849\n2388.9\n\n\n3\n-0.216161\n-78.436832\n2388.9\n\n\n4\n-0.216211\n-78.436803\n2389.0\n\n\n\n\n\n\n\n\n# Calculate the middle index\nmiddle_index = len(df) // 2\n# Get the middle element using iloc\npoint  = df.iloc[middle_index]"
   },
   {
     "objectID": "posts/post-with-code/stravaPlotOSMNX.html",
@@ -109,174 +144,13 @@
     "href": "posts/post-with-code/stravaPlotOSMNX.html#plot-route",
     "title": "Strava Route Plot OSMNX",
     "section": "3. Plot Route",
-    "text": "3. Plot Route\n\nfig, ax = ox.plot_graph(G, node_size=0,\n                        figsize        = (11, 16), \n                        dpi            = 300,\n                        save           = False,\n                        bgcolor        = \"#FFFFFF\",\n                        edge_color     = \"#253951\",\n                        edge_alpha     = 0.2 ,\n                        show           = False)\n## Plot  activity in graph \nplt.plot( route_df['longitude'] , route_df['latitude'] ,\n         color     = \"#E64E25\" , \n         linewidth = 2.0)\n## Plot  activity in graph \nplt.show()\nfig.tight_layout(pad=0)\n## path name to save\npath_save = path.split(\".\")[0] + \".png\"\n# fig.savefig( path_save, dpi=300, format=\"png\", bbox_inches='tight',\n#             facecolor=fig.get_facecolor(), transparent=False)\n\n\n\n\n\n# save figure\nfig.savefig('activity.png')"
+    "text": "3. Plot Route\n\nfig, ax = ox.plot_graph(G, node_size=0,\n                        figsize        = (11, 16), \n                        dpi            = 300,\n                        save           = False,\n                        bgcolor        = \"#FFFFFF\",\n                        edge_color     = \"#253951\",\n                        edge_alpha     = 0.2 ,\n                        show           = False)\n## Plot  activity in graph \nplt.plot( route_df['longitude'] , route_df['latitude'] ,\n         color     = \"#E64E25\" , \n         linewidth = 2.0)\n## Plot  activity in graph \nplt.show()\nfig.tight_layout(pad=0)\n## path name to save\npath_save = path.split(\".\")[0] + \".png\"\n# fig.savefig( path_save, dpi=300, format=\"png\", bbox_inches='tight',\n#             facecolor=fig.get_facecolor(), transparent=False)\n\n\n\n\n\n\n\n\n\n# save figure\nfig.savefig('activity.png')"
   },
   {
     "objectID": "posts/post-with-code/stravaPlotOSMNX.html#plot-elevation",
     "href": "posts/post-with-code/stravaPlotOSMNX.html#plot-elevation",
     "title": "Strava Route Plot OSMNX",
     "section": "4. Plot Elevation",
-    "text": "4. Plot Elevation\n\nelevation = route_df.elevation\nx_plot    = range(len(elevation))\nmin_elev  = min(elevation) - 25\n\n\n# Set the figure size\nfig, ax = plt.subplots(figsize=(11, 2))\n# Area plot\nax.fill_between(x_plot, elevation, color=\"#E64E25\")\n# Set the minimum and maximum values for the y-axis\nax.set_ylim(min_elev, 4000)\nplt.axis('off')\n# Save the figure\npath_save = path.split(\".\")[0] +\"_elevation\" \".png\"\nplt.savefig(path_save , transparent=True, bbox_inches='tight', pad_inches=0 )\n# Display the plot\nplt.show()\n\n\n\n\n\nfig.savefig('perfil.png')"
-  },
-  {
-    "objectID": "posts/SelectionSort/SelectionSort.html",
-    "href": "posts/SelectionSort/SelectionSort.html",
-    "title": "Selection Sort",
-    "section": "",
-    "text": "Implement the selection sort algorithm, analyze its performance and complexity in different scenarios.\nImplement a recursive function to familiarize ourselves with applying recursive algorithms or functions."
-  },
-  {
-    "objectID": "posts/SelectionSort/SelectionSort.html#objectives",
-    "href": "posts/SelectionSort/SelectionSort.html#objectives",
-    "title": "Selection Sort",
-    "section": "",
-    "text": "Implement the selection sort algorithm, analyze its performance and complexity in different scenarios.\nImplement a recursive function to familiarize ourselves with applying recursive algorithms or functions."
-  },
-  {
-    "objectID": "posts/SelectionSort/SelectionSort.html#introduction",
-    "href": "posts/SelectionSort/SelectionSort.html#introduction",
-    "title": "Selection Sort",
-    "section": "Introduction",
-    "text": "Introduction\nSorting a dataset involves arranging the data collection to establish an accurate relationship, in this case, order. Sorting is one of the most studied problems in computer science, resulting in many algorithms of varying efficiency that sort elements such as names, indices, letters, etc. (Necaise 2011). Selection sort is one of these sorting algorithms and is based on creating a new list where it places the values it is sorting. Its efficiency is $ O(n^{2}) $ .\nRecursion is a process for solving problems and a powerful programming tool to solve a larger problem by subdividing it into smaller cases, then solving the smaller problem to provide a solution to the initial problem. It can be used with a wide range of problems, from basic traditional iterations to more advanced backtracking problems. In some cases, recursion is not the efficient and elegant solution (Bhargava 2024)."
-  },
-  {
-    "objectID": "posts/SelectionSort/SelectionSort.html#exercise-1",
-    "href": "posts/SelectionSort/SelectionSort.html#exercise-1",
-    "title": "Selection Sort",
-    "section": "Exercise 1",
-    "text": "Exercise 1\n\nA. Problem Statement\nImplement the Selection Sort algorithm.\nThe Selection Sort algorithm consists of two functions. The first function, called findSmallest, is responsible for returning the index of the smallest element in the array. The second function is responsible for performing the sorting by placing the element from the index returned by the findSmallest function into a new array and removing this element from the original array. This process is repeated iteratively until all elements in the array are consumed.\n\ndef findSmallest(arreglo):\n    \"\"\"\n    funcion  que retorna el incice del valor mas pequeno del arregloeglo o lista\n    Inpust:\n        arreglo: arregloeglo de entrada\n    Returns:\n        indice_valor_mpequeno (int): indice del elemnto mas pequeno\n    \"\"\"\n    valor_mpequeno = arreglo[0] #tomamos el primer elemnto dl arreglo \n    indice_valor_mpequeno = 0 #se asgina indice 0\n    for i in range(1, len(arreglo)): #itermos para ir comparando\n        if arreglo[i] &lt; valor_mpequeno: #realizamos la comparacion elemnto a elemento\n            valor_mpequeno = arreglo[i]\n            indice_valor_mpequeno = i\n    return indice_valor_mpequeno #retornamos indice\n\n\ndef selectionSort(arreglo):\n    \"\"\"\n    Algoritmo de ordenamiento retorna el arregloeglo ordenado de menor a mayor\n  \n    Inpust:\n        arregloeglo: arregloeglo o lista a ordenar menor a mayor\n    Returns:\n        arregloeglo : ordenado \n    \"\"\"\n    nuevo_arreglo = [] #declaramos el arreglo a retornar \n    for i in range(len(arreglo)):#iteramos sobre al arreglo ingresado\n        indice_valor_mpqueno = findSmallest(arreglo)#obtenemo indice valor mas pequeno\n        nuevo_arreglo.append(arreglo.pop(indice_valor_mpqueno))\n    return nuevo_arreglo"
-  },
-  {
-    "objectID": "posts/SelectionSort/SelectionSort.html#b.-execution-of-the-selection-sort-algorithm",
-    "href": "posts/SelectionSort/SelectionSort.html#b.-execution-of-the-selection-sort-algorithm",
-    "title": "Selection Sort",
-    "section": "B. Execution of the Selection Sort Algorithm",
-    "text": "B. Execution of the Selection Sort Algorithm\nTest the algorithm with the input of random integer data.\n\nimport random \n# list input shuffle\ninput_list = [ random.randint(1,100) for x in range(10)]\nprint(\"List input : {}\".format(input_list))\nprint(\"List selection sort : {}\".format(selectionSort(input_list)))\n\nList input : [56, 63, 14, 89, 98, 46, 23, 88, 67, 63]\nList selection sort : [14, 23, 46, 56, 63, 63, 67, 88, 89, 98]"
-  },
-  {
-    "objectID": "posts/SelectionSort/SelectionSort.html#exercise-2",
-    "href": "posts/SelectionSort/SelectionSort.html#exercise-2",
-    "title": "Selection Sort",
-    "section": "Exercise 2",
-    "text": "Exercise 2\n\nA. Problem Statement\nProvide an example of recursion.\nThe implemented recursive function performs the addition of a scalar to a multidimensional array of integers or decimals. The base case of the function checks if it encounters an integer or decimal value; otherwise, it continues calling itself, traversing the entire array. Recursion allows solving this problem as it generalizes the algorithm, which does not happen if we implement it with the same iterative logic, as it only solves the problem for a predefined dimension.\n\ndef suma_escalar_array(arreglo, numero):\n    \"\"\"\n    funcion que permite sumar un escalar a una lista\n    Args:\n        arreglo:(list) arreglo al que se va sumar el numero escalar\n        numero (int or float) : escalar que va sumar al arreglo\n    Returns:\n        arreglo (list): arreglo sumado escalar\n    \"\"\"\n    if type(arreglo) is  int or type(arreglo) is float:\n        return arreglo+numero;\n    else :\n        for i in range(0,len(arreglo)) :\n            arreglo[i]=suma_escalar_array(arreglo[i], numero)\n    return arreglo\n\n\n\nB. Execution of the Function with Different Inputs\nTest the Recursive Function with a One-Dimensional Array\n\nprint(\"Result  : {}\".format(suma_escalar_array([1,2,3,4,5,6,7,8,9,10], 10)))\n\nResult  : [11, 12, 13, 14, 15, 16, 17, 18, 19, 20]"
-  },
-  {
-    "objectID": "posts/SelectionSort/SelectionSort.html#conclusions",
-    "href": "posts/SelectionSort/SelectionSort.html#conclusions",
-    "title": "Selection Sort",
-    "section": "Conclusions",
-    "text": "Conclusions\n\nThe implementation of selection sort carried out in Exercise 1 confirms the utility of selection sort as a tool for ordering a collection of data.\nThe selection sort algorithm implemented in Exercise 1 is composed of two functions: the first, findSmallest, which returns the index of the smallest element in the array, and the second, selectionSort, which adds this element to the new sorted list and removes it from the original array.\nThe efficiency of selection sort is $ O(n^{2}) $ operations to sort a list of n elements.\nThe recursive function addScalarToArray implemented in Exercise 2 generalizes the algorithm for adding a scalar to an array of different dimensions. In contrast, implementing the function with the same iterative logic only solves the problem for an array of predefined dimension.\nRecursion consists of one or more base cases. In the function in Exercise 2, the base case executes when the input value is an integer or decimal, and the recursive case occurs when the input value is a list.\nThe call stack in the function from Exercise 2 will depend on the dimensionality of the elements in the input array."
-  },
-  {
-    "objectID": "posts/StableMachin/StableMachin.html",
-    "href": "posts/StableMachin/StableMachin.html",
-    "title": "Stable Matching",
-    "section": "",
-    "text": "Implement the stable matching algorithm and verify its functionality with different inputs."
-  },
-  {
-    "objectID": "posts/StableMachin/StableMachin.html#objectives",
-    "href": "posts/StableMachin/StableMachin.html#objectives",
-    "title": "Stable Matching",
-    "section": "",
-    "text": "Implement the stable matching algorithm and verify its functionality with different inputs."
-  },
-  {
-    "objectID": "posts/StableMachin/StableMachin.html#introduction",
-    "href": "posts/StableMachin/StableMachin.html#introduction",
-    "title": "Stable Matching",
-    "section": "Introduction",
-    "text": "Introduction\nIn 1962, researchers David Gale and Lloyd Shapley introduced a study on matching to assign a set of pairs with stability, also known as the stable marriage problem. Gale and Shapley used the typical situation of student selection in universities based on preferences as an example. The result of their research is a satisfactory assignment procedure that eliminates uncertainties (Gale and Shapley 1962). Today, a large number of applications are based on this algorithm, such as matching servers with potential users in internet services."
-  },
-  {
-    "objectID": "posts/StableMachin/StableMachin.html#exercise-1-stable-matching",
-    "href": "posts/StableMachin/StableMachin.html#exercise-1-stable-matching",
-    "title": "Stable Matching",
-    "section": "Exercise 1: Stable Matching",
-    "text": "Exercise 1: Stable Matching\n\nProblem Statement\nIf we want to match two sets in pairs, with respect to the preferences of each element in the set, the stable matching algorithm presents a series of steps to ensure this matching is stable, and none of the paired elements is left alone or can break another pair.\nTo develop the algorithm, we will exemplify with a demo involving students applying to hospitals. A set of 5 students are sought by 5 hospitals (“Cs.princeton.edu”).\n\n\n\nHospital Preferences (“Cs.princeton.edu”)\n\n\n\n\n\nStudent Preferences (“Cs.princeton.edu”)\n\n\n\nimport random\ndef stableMatching( ):\n    requeridos=['ATLANTA','BOSTON','CHICAGO','DETROIT','EL PASO']\n    solicitantes=['VAL','WAYNE','XAVIER','YOLANDA','ZEUS']\n    preferencias={\n    'ATLANTA':['WAYNE','VAL','YOLANDA','ZEUS','XAVIER'],\n    'BOSTON':['YOLANDA','WAYNE','VAL','XAVIER','ZEUS'],\n    'CHICAGO':['WAYNE','ZEUS','XAVIER','YOLANDA','VAL'],\n    'DETROIT':['VAL','YOLANDA','XAVIER','WAYNE','ZEUS'],\n    'EL PASO':['WAYNE','YOLANDA','VAL','ZEUS','XAVIER'],\n        \n    'VAL':['EL PASO','ATLANTA','BOSTON','DETROIT','CHICAGO'],\n    'WAYNE':['CHICAGO','BOSTON','DETROIT','ATLANTA','EL PASO'],\n    'XAVIER':['BOSTON','CHICAGO','DETROIT','EL PASO','ATLANTA'],\n    'YOLANDA':['ATLANTA','EL PASO','DETROIT','CHICAGO','BOSTON'],\n    'ZEUS':['DETROIT','BOSTON','EL PASO','CHICAGO','ATLANTA'],\n    }\n    \n    random.shuffle(requeridos)###demostrar que no hay problema del orden\n    random.shuffle(solicitantes)###demostrar que no hay problema del orden\n    solicitantes_libres=list(solicitantes)\n    rank={}\n    for x in preferencias:\n        rank[x]=dict(zip(preferencias[x],range(1,len(preferencias[x])+1)))\n    for x in preferencias:\n        preferencias[x].reverse()\n    S={}\n    while solicitantes_libres :\n        solicitante=solicitantes_libres.pop()\n        if len(preferencias[solicitante])==0:\n            continue\n        requerido=preferencias[solicitante].pop()\n        if requerido not in S :\n            S[requerido]=solicitante\n        else :\n            Hompre_prime=S[requerido]\n            if rank[requerido][solicitante]&lt;rank[requerido][Hompre_prime]:     \n                S[requerido]=solicitante \n                solicitantes_libres.append(Hompre_prime)\n            else:\n                solicitantes_libres.append(solicitante)\n    print(S)\n\n\nstableMatching( )\n\n{'BOSTON': 'XAVIER', 'DETROIT': 'ZEUS', 'EL PASO': 'VAL', 'ATLANTA': 'YOLANDA', 'CHICAGO': 'WAYNE'}\n\n\n\n\nDoes the set S change if the order of elements in Entity1 changes?\nThe stable matching algorithm does not depend on the order of elements in the entities. The result of shuffling the elements of the entities (Applicants, Required) will always generate the same stable matching. Using the shuffle function in Python, we can randomize the order of the entities without affecting the final result.\n\nstableMatching( )\n\n{'EL PASO': 'VAL', 'CHICAGO': 'WAYNE', 'BOSTON': 'XAVIER', 'ATLANTA': 'YOLANDA', 'DETROIT': 'ZEUS'}\n\n\n\n\nDoes the set S change if we consider Entity 1 as Entity 2 and vice versa?\nThe result of swapping the identities (Applicants &lt;-&gt; Required) changes the outcome of the algorithm because, in the first case, it satisfies the preferences of the applicant Entity 1. When swapped, it satisfies the preferences of Entity 2. The results are:\n\n(Entity 1 = applicants = Hospitals), (Entity 2 = required = Students)\n\nThe result presents the stable pairs for this first case where the applicants are the hospitals and the required are the students. The algorithm satisfies the applicants (hospitals), meaning it is not equitable as it only satisfies the applicants’ preferences."
-  },
-  {
-    "objectID": "posts/StableMachin/StableMachin.html#conclusions",
-    "href": "posts/StableMachin/StableMachin.html#conclusions",
-    "title": "Stable Matching",
-    "section": "Conclusions",
-    "text": "Conclusions\n\nThe stable matching algorithm allows us to pair two sets according to their preference lists, resulting in a set of stable pairs.\nThe outcome of the stable matching algorithm is independent of the order of the elements in the input entities.\nThe outcome of the stable matching algorithm always prioritizes the applicant entity since it chooses its best possible matches according to its preference list.\nThe stable matching algorithm is not equitable as it always satisfies the preferences of the entity that enters as the applicant.\nThe stable matching algorithm presents two results: one where the first entity is the applicant and the second entity is the required, and another by swapping the entities where the second entity is the applicant and the first entity is the required."
-  },
-  {
-    "objectID": "posts/stravaFolium/Strava_gpx_plot.html",
-    "href": "posts/stravaFolium/Strava_gpx_plot.html",
-    "title": "Strava GPX Plotter: Mapping Beautiful Journeys with Folium in Python",
-    "section": "",
-    "text": "“Strava GPX Plotter: Mapping Beautiful Journeys with Folium in Python” is a tool that allows users to visualize their Strava activities on interactive maps. By using Python and the Folium library, this tool reads GPX files from Strava and plots the routes on a map, highlighting the beauty of each journey. Users can customize the maps, adding markers and different styles to enhance the visual appeal. This tool is perfect for athletes and outdoor enthusiasts who want to see their activities in a new light, making it easy to share and analyze their adventures.\nimport pandas as pd\nimport gpxpy\nimport gpxpy.gpx\nimport matplotlib.pyplot as plt\nimport os\nimport folium"
-  },
-  {
-    "objectID": "posts/stravaFolium/Strava_gpx_plot.html#read-gpx-file",
-    "href": "posts/stravaFolium/Strava_gpx_plot.html#read-gpx-file",
-    "title": "Strava GPX Plotter: Mapping Beautiful Journeys with Folium in Python",
-    "section": "Read gpx File",
-    "text": "Read gpx File\n\n# path from gpx file\npath = \"Princesa_Toa_.gpx\"\n# load data from gpx strava activity and parse\nwith open(path, 'r') as gpx_file:\n    gpx = gpxpy.parse(gpx_file)"
-  },
-  {
-    "objectID": "posts/stravaFolium/Strava_gpx_plot.html#extract-latitude-longitude-and-elevation",
-    "href": "posts/stravaFolium/Strava_gpx_plot.html#extract-latitude-longitude-and-elevation",
-    "title": "Strava GPX Plotter: Mapping Beautiful Journeys with Folium in Python",
-    "section": "Extract latitude, longitude and elevation",
-    "text": "Extract latitude, longitude and elevation\n\n# extract in gpx file latitude, longitude  and elevation\nroute_info = [{'latitude': point.latitude,'longitude': point.longitude,'elevation': point.elevation} \n              for track   in gpx.tracks  \n              for segment in track.segments \n              for point   in segment.points ]\n\n\n# route_df Dataframe\ndf = pd.DataFrame(route_info)\ndf.head()\n\n\n\n\n\n\n\n\nlatitude\nlongitude\nelevation\n\n\n\n\n0\n-0.216083\n-78.436892\n2388.8\n\n\n1\n-0.216085\n-78.436895\n2388.8\n\n\n2\n-0.216141\n-78.436849\n2388.9\n\n\n3\n-0.216161\n-78.436832\n2388.9\n\n\n4\n-0.216211\n-78.436803\n2389.0\n\n\n\n\n\n\n\n\n# Calculate the middle index\nmiddle_index = len(df) // 2\n# Get the middle element using iloc\npoint  = df.iloc[middle_index]"
-  },
-  {
-    "objectID": "posts/StravaRidgeMap/Visual_Segments.html",
-    "href": "posts/StravaRidgeMap/Visual_Segments.html",
-    "title": "Strava plot Segments",
-    "section": "",
-    "text": "This project focuses on visualizing GPX segments from Strava, a popular platform for tracking fitness activities. By extracting and processing the GPX data, the project generates detailed maps that display specific segments of routes used in cycling, running, or other activities. The visualization highlights important metrics like distance, elevation, and speed, offering an interactive way to analyze and explore the recorded paths.\nimport osmnx as ox\nimport pandas as pd\nimport gpxpy\nimport gpxpy.gpx\nimport matplotlib.pyplot as plt\nimport polyline\nimport ast\nimport requests \nfrom tqdm import tqdm\nimport time\nimport requests\nimport json"
-  },
-  {
-    "objectID": "posts/StravaRidgeMap/Visual_Segments.html#read-strava-segmenst-dataset",
-    "href": "posts/StravaRidgeMap/Visual_Segments.html#read-strava-segmenst-dataset",
-    "title": "Strava plot Segments",
-    "section": "Read Strava segmenst Dataset",
-    "text": "Read Strava segmenst Dataset\n\ndf_segmenst = pd.read_csv(\"../data/segmetos_by_id.csv\" )\ndf_segmenst.head()\n\n\n\n\n\n\n\n\nid\nname\nactivity_type\ndistance\naverage_grade\nmaximum_grade\nelevation_high\nelevation_low\nstart_latlng\nend_latlng\n...\nprivate\nathlete_pr_effort\ncreated_at\nupdated_at\ntotal_elevation_gain\nmap\neffort_count\nathlete_count\nhazardous\nstar_count\n\n\n\n\n0\n891158\nElias Sinalin Climb\nRide\n2326.24\n7.1\n14.4\n2448.8\n2283.2\n[-0.1734213251620531, -78.42762278392911]\n[-0.1637657918035984, -78.43702451325953]\n...\nFalse\nNaN\n2012-01-03 02:21:01+00:00\n2021-05-17 08:03:48+00:00\n165.600\n{'id': 's891158', 'polyline': '|z`@t{t}Mk@^m@T...\n36400\n1995\nFalse\n2\n\n\n1\n891159\nElias Sinalin Climb\nRide\n2254.94\n7.4\n16.0\n2442.8\n2275.4\n[-0.17346843145787716, -78.42755891382694]\n[-0.16448546200990677, -78.4368119481951]\n...\nFalse\nNaN\n2012-01-03 02:21:03+00:00\n2021-05-17 08:03:48+00:00\n167.400\n{'id': 's891159', 'polyline': 'd{`@f{t}MOPe@Zk...\n36498\n2195\nFalse\n3\n\n\n2\n907410\nFrancisco De Orellana Climb\nRide\n2046.32\n4.0\n8.0\n2332.5\n2249.7\n[-0.211095, -78.424131]\n[-0.201859, -78.431089]\n...\nFalse\nNaN\n2012-01-09 13:56:41+00:00\n2021-05-15 02:11:44+00:00\n82.777\n{'id': 's907410', 'polyline': 'jfh@zet}MyBt@mD...\n1129\n326\nFalse\n2\n\n\n3\n907414\nCarlos Dousdebes A Climb\nRide\n1542.17\n9.1\n15.3\n2375.7\n2235.0\n[-0.185288, -78.415436]\n[-0.180186, -78.426947]\n...\nFalse\nNaN\n2012-01-09 13:56:47+00:00\n2021-05-17 08:03:48+00:00\n140.742\n{'id': 's907414', 'polyline': '`ec@nor}MEbBGj@...\n37218\n2685\nFalse\n8\n\n\n4\n907417\nLa Sofia Climb\nRide\n1948.30\n4.5\n7.6\n3158.1\n3070.8\n[-0.257156, -78.502686]\n[-0.272689, -78.509288]\n...\nFalse\nNaN\n2012-01-09 13:56:52+00:00\n2021-05-18 08:02:40+00:00\n87.286\n{'id': 's907417', 'polyline': 'ffq@xpc~MnAWbAI...\n6598\n1564\nFalse\n7\n\n\n\n\n5 rows × 24 columns\n\n\n\n\ndf_segmenst.columns\n\nIndex(['id', 'name', 'activity_type', 'distance', 'average_grade',\n       'maximum_grade', 'elevation_high', 'elevation_low', 'start_latlng',\n       'end_latlng', 'climb_category', 'city', 'state', 'country', 'private',\n       'athlete_pr_effort', 'created_at', 'updated_at', 'total_elevation_gain',\n       'map', 'effort_count', 'athlete_count', 'hazardous', 'star_count'],\n      dtype='object')\n\n\n\n#segment id \nsegment_id = 4692061\n\n\n#finde segment \nsegment = df_segmenst[df_segmenst.id == segment_id].iloc[0]\n#segment name\nname_plot    = segment['name']\nsegment_name = segment['name'].replace(\" \", \"_\")\n#str to dict \nsegment_map = ast.literal_eval(segment['map'])\n# decode polyline map segment\nsegment_decode =  polyline.decode(segment_map['polyline'])\n# get latitude and longitude\nsegment_lat, segment_long = zip(*segment_decode)\n#segment start \nsegment_start = ast.literal_eval(segment['start_latlng']) \n#segment end \nsegment_end = ast.literal_eval(segment['end_latlng'])"
-  },
-  {
-    "objectID": "posts/StravaRidgeMap/Visual_Segments.html#center-point-for-graph-in-ox",
-    "href": "posts/StravaRidgeMap/Visual_Segments.html#center-point-for-graph-in-ox",
-    "title": "Strava plot Segments",
-    "section": "Center point for Graph in ox",
-    "text": "Center point for Graph in ox\n\n# center point to extract graph latitude , longitude\ncenter_point = ((segment_end[0]+segment_start[0])/2, ((segment_end[1]+segment_start[1])/2))\n\n\nLink osmnx graph_from_point fuction\nhttps://osmnx.readthedocs.io/en/stable/osmnx.html?highlight=graph_from_point#osmnx.graph.graph_from_point\n\nG = ox.graph_from_point(center_point, dist=5000, retain_all=True, simplify = False, network_type='all')\n#bike all"
-  },
-  {
-    "objectID": "posts/StravaRidgeMap/Visual_Segments.html#define-colors",
-    "href": "posts/StravaRidgeMap/Visual_Segments.html#define-colors",
-    "title": "Strava plot Segments",
-    "section": "Define colors",
-    "text": "Define colors\n\ndef color_Palette(plot=True , model = \"default\"):\n    \"\"\"\n    Generates a color palette using the ColorMind API.\n\n    Parameters:\n        plot (bool): Whether to plot the colors as a bar chart. Default is True.\n        model (str): The name of the color palette model to use. If not found in the \n                     list of available models, the default model will be used. \n                     Default is \"default\".\n    Returns:\n        list: A list of colors represented as RGB \n\n    Available Models:\n        - ui\n        - default\n        - flame_photography\n        - christmas_season\n        - ocean_photography\n        - castlevania\n    \"\"\"\n    models = ['ui', 'default', 'flame_photography', 'christmas_season',\n             'ocean_photography', 'castlevania']\n    \n    model = model if model in models else \"default\"\n    url = 'http://colormind.io/api/'\n    data = {\n        \"model\": model\n    }\n    response = requests.post(url, data=json.dumps(data))\n    colors = [[r/255, g/255, b/255] for r, g, b in response.json()[\"result\"]]\n    if plot:\n        # Create a bar chart with color swatches\n        fig, ax = plt.subplots()\n        for i, color in enumerate(colors):\n            ax.bar(i, 1, color=color)\n        # Set the x-axis ticks and labels\n        ax.set_xticks(range(len(colors)))\n        ax.set_xticklabels(['Color {}'.format(i+1) for i in range(len(colors))])\n        # Remove the y-axis ticks and labels\n        ax.set_yticks([])\n        ax.set_ylabel('')\n        # Set the title\n        ax.set_title('Color Palette')\n        # Adjust the layout and display the plot\n        plt.tight_layout()\n        plt.show()\n    return colors\n\n\n# color = color_Palette()\n\n\nnc = ox.plot.get_node_colors_by_attr(G, attr=\"y\", cmap=\"plasma\")\n\n\n# otherwise, when num_bins is None (default), linearly map one color to each node/edge by value\nec = ox.plot.get_edge_colors_by_attr(G, attr=\"length\")\n\n\n# get n evenly-spaced colors from some matplotlib colormap\ncolor =ox.plot.get_colors(n=5, cmap=\"inferno\", return_hex=True)\ncolor\n\n['#000004', '#57106e', '#bc3754', '#f98e09', '#fcffa4']\n\n\n\nss = ox.plot.get_node_colors_by_attr(G , cmap=\"Accent\" ,attr=\"x\")\n\n\nnc = ox.plot.get_edge_colors_by_attr(G, attr=\"length\", cmap=\"inferno\")\n\n\nec = ox.plot.get_edge_colors_by_attr(G, attr=\"length\", num_bins=6 , cmap=\"ocean\" ,\n                                     )\n\n# otherwise, when num_bins is None (default), linearly map one color to each node/edge by value\n# ec = ox.plot.get_edge_colors_by_attr(G, attr=\"length\")"
-  },
-  {
-    "objectID": "posts/StravaRidgeMap/Visual_Segments.html#edit-lines-and-colors",
-    "href": "posts/StravaRidgeMap/Visual_Segments.html#edit-lines-and-colors",
-    "title": "Strava plot Segments",
-    "section": "Edit lines and colors",
-    "text": "Edit lines and colors\n\nu = []\nv = []\nkey = []\ndata = []\nfor uu, vv, kkey, ddata in G.edges(keys=True, data=True):\n    u.append(uu)\n    v.append(vv)\n    key.append(kkey)\n    data.append(ddata)\n# Lists to store colors and widths \nroadColors = []\nroadWidths = []\n\nfor item in data:\n    if \"length\" in item.keys():\n        if item[\"length\"] &lt;= 100:\n            linewidth = 0.10\n            color = \"#a6a6a6\" \n            \n        elif item[\"length\"] &gt; 100 and item[\"length\"] &lt;= 200:\n            linewidth = 0.15\n            color = \"#676767\"\n            \n        elif item[\"length\"] &gt; 200 and item[\"length\"] &lt;= 400:\n            linewidth = 0.25\n            color = \"#454545\"\n            \n        elif item[\"length\"] &gt; 400 and item[\"length\"] &lt;= 800:\n            color = \"#bdbdbd\"\n            linewidth = 0.35\n        else:\n            color = \"#d5d5d5\"\n            linewidth = 0.45\n\n        if \"primary\" in item[\"highway\"]:\n            linewidth = 0.5\n            color = \"#ffff\"\n    else:\n        color = \"#a6a6a6\"\n        linewidth = 0.10\n            \n    roadColors.append(color)\n    roadWidths.append(linewidth)\n\n\n#(27, 40),\nfig, ax = ox.plot_graph(G, node_size=0,\n                        figsize        = (20, 20), \n                        dpi            = 300,\n                        bgcolor        = \"#2A5A83\",\n                        save           = False,\n                       edge_color      = '#F8FEFF',\n                         edge_alpha    = 1 ,\n                        show           = False,\n                            )\n## Plot  activity in graph segment_lat, segment_long\nax.set_title(name_plot, fontsize=60 , y=1.0, pad=-14 , color = \"#FC5200\")\nplt.plot( segment_long , segment_lat ,\n         color     = \"#FC5200\" , \n         linewidth = 4.0\n        )\n## Plot  activity in graph \nplt.show()\nfig.tight_layout(pad=0)\n\n## path name to save\npath_save = \"../images/\" + segment_name + \".png\"\nfig.savefig( path_save, dpi=300, format=\"png\", bbox_inches='tight',\n            facecolor=fig.get_facecolor(), transparent=False)\n\n\n\n\n\n#(27, 40),\nfig, ax = ox.plot_graph(G, node_size=0,\n                        figsize        = (20, 20), \n                        dpi            = 300,\n                        save           = False,\n                        bgcolor        = \"#64A497\",\n                        edge_color     = \"#86715A\",\n                        edge_alpha     = 1 ,\n                        show           = False)\n## Plot  activity in graph segment_lat, segment_long\nplt.plot( segment_long , segment_lat ,\n         color     = \"#F7F6F5\" , \n         linewidth = 4.0)\n## Plot  activity in graph \nplt.show()\nfig.tight_layout(pad=0)\n## path name to save\npath_save = \"../images/\" + segment_name + \".png\"\nfig.savefig( path_save, dpi=300, format=\"png\", bbox_inches='tight',\n            facecolor=fig.get_facecolor(), transparent=False)"
-  },
-  {
-    "objectID": "posts/Strava_pydeck/StavaPydeckSegment.html",
-    "href": "posts/Strava_pydeck/StavaPydeckSegment.html",
-    "title": "Strava Information Plot pydeck",
-    "section": "",
-    "text": "#pip install pydeck\nimport pydeck as pdk\nimport pandas as pd\nimport ast"
-  },
-  {
-    "objectID": "posts/Strava_pydeck/StavaPydeckSegment.html#read-dataset",
-    "href": "posts/Strava_pydeck/StavaPydeckSegment.html#read-dataset",
-    "title": "Strava Information Plot pydeck",
-    "section": "Read Dataset",
-    "text": "Read Dataset\n\ndf = pd.read_csv(\"dataset.csv\")\n\n\ndf.info()\n\n&lt;class 'pandas.core.frame.DataFrame'&gt;\nRangeIndex: 5817 entries, 0 to 5816\nData columns (total 10 columns):\n #   Column                Non-Null Count  Dtype  \n---  ------                --------------  -----  \n 0   id                    5817 non-null   object \n 1   distance              5817 non-null   float64\n 2   elevation_high        5817 non-null   float64\n 3   elevation_low         5817 non-null   float64\n 4   start_latlng          5817 non-null   object \n 5   climb_category        5817 non-null   int64  \n 6   total_elevation_gain  5817 non-null   float64\n 7   effort_count          5817 non-null   int64  \n 8   athlete_count         5817 non-null   int64  \n 9   star_count            5817 non-null   int64  \ndtypes: float64(4), int64(4), object(2)\nmemory usage: 454.6+ KB\n\n\n\nGet latitude and Longitude\n\ndf[\"start_latlng\"] = df.start_latlng.apply(ast.literal_eval)\ndf[\"lat\"] = df.start_latlng.apply(lambda x:x[0])\ndf[\"lng\"] = df.start_latlng.apply(lambda x:x[1])"
-  },
-  {
-    "objectID": "posts/Strava_pydeck/StavaPydeckSegment.html#plot-elevation-high",
-    "href": "posts/Strava_pydeck/StavaPydeckSegment.html#plot-elevation-high",
-    "title": "Strava Information Plot pydeck",
-    "section": "Plot Elevation High",
-    "text": "Plot Elevation High\n\n\n\ncolumn_layer = pdk.Layer(\n    \"ColumnLayer\",\n    data=df,\n    get_position=[\"lng\", \"lat\"],\n    get_elevation=\"elevation_high\",\n    radius=50,\n    pickable=True,\n    auto_highlight=True,\n    get_fill_color = [\"252\",\"82\",\"0\" ,140]\n)\n\ntooltip = {\n    \"html\": \"&lt;b&gt;{elevation_high}&lt;/b&gt; meters elevation, climb category &lt;b&gt;{climb_category}&lt;/b&gt; NTD/sqm\",\n    \"style\": {\"background\": \"grey\", \"color\": \"white\", \"font-family\": '\"Helvetica Neue\", Arial', \"z-index\": \"10000\"},\n}\nview_state = pdk.ViewState(\n    longitude=-78.46576413139701,\n    latitude=-0.1988402847200632,\n    zoom=6,\n    min_zoom=9,\n    max_zoom=15,\n    pitch=40.5,\n    bearing=-27.36)\n\nr = pdk.Deck(\n    column_layer,\n    initial_view_state=view_state,\n    tooltip=tooltip,\n)\n\nr.to_html(\"column_layer.html\")\n\n\n        \n    \n\n\n\n# Define a layer to display on a map\nlayer = pdk.Layer(\n    \"HexagonLayer\",\n    df[[\"lng\", \"lat\",'elevation_high']],\n    get_position=[\"lng\", \"lat\"],\n    elevation_scale=50,\n    pickable=True,\n    elevation_range=[0, 1500],\n    extruded=True,\n    coverage=1,\n)\n\n\n# Set the viewport location -0.1988402847200632, -78.46576413139701\nview_state = pdk.ViewState(\n    longitude=-78.46576413139701,\n    latitude=-0.1988402847200632,\n    zoom=6,\n    min_zoom=8,\n    max_zoom=15,\n    pitch=40.5,\n    bearing=-27.36)\n\n\n# Render\nr = pdk.Deck(layers=[layer], initial_view_state=view_state)\nr.to_html(\"hexagon_layer.html\")"
+    "text": "4. Plot Elevation\n\nelevation = route_df.elevation\nx_plot    = range(len(elevation))\nmin_elev  = min(elevation) - 25\n\n\n# Set the figure size\nfig, ax = plt.subplots(figsize=(11, 2))\n# Area plot\nax.fill_between(x_plot, elevation, color=\"#E64E25\")\n# Set the minimum and maximum values for the y-axis\nax.set_ylim(min_elev, 4000)\nplt.axis('off')\n# Save the figure\npath_save = path.split(\".\")[0] +\"_elevation\" \".png\"\nplt.savefig(path_save , transparent=True, bbox_inches='tight', pad_inches=0 )\n# Display the plot\nplt.show()\n\n\n\n\n\n\n\n\n\nfig.savefig('perfil.png')"
   }
 ]

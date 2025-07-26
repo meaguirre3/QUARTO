@@ -1,26 +1,20 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/about.html",
     "items": [
-      "/posts/StravaRidgeMap/Visual_Segments.html",
-      "/posts/Strava_pydeck/StavaPydeckSegment.html",
-      "/posts/BFS_DFS/BFS.html",
+      "/posts/welcome/index.html",
       "/posts/stravaFolium/Strava_gpx_plot.html",
-      "/posts/post-with-code/stravaPlotOSMNX.html",
-      "/posts/StableMachin/StableMachin.html",
-      "/posts/SelectionSort/SelectionSort.html"
+      "/posts/BFS_DFS/BFS.html",
+      "/posts/post-with-code/stravaPlotOSMNX.html"
     ]
   },
   {
     "listing": "/notebooks.html",
     "items": [
-      "/posts/StravaRidgeMap/Visual_Segments.html",
-      "/posts/Strava_pydeck/StavaPydeckSegment.html",
-      "/posts/BFS_DFS/BFS.html",
+      "/posts/welcome/index.html",
       "/posts/stravaFolium/Strava_gpx_plot.html",
-      "/posts/post-with-code/stravaPlotOSMNX.html",
-      "/posts/StableMachin/StableMachin.html",
-      "/posts/SelectionSort/SelectionSort.html"
+      "/posts/BFS_DFS/BFS.html",
+      "/posts/post-with-code/stravaPlotOSMNX.html"
     ]
   }
 ]

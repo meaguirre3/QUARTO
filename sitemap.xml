@@ -1,43 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://meaguirre3.github.io/QUARTO/about.html</loc>
-    <lastmod>2024-09-04T23:45:34.630Z</lastmod>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/BFS_DFS/BFS.html</loc>
+    <lastmod>2025-07-26T19:28:57.628Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/welcome/index.html</loc>
+    <lastmod>2025-07-26T19:28:57.885Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/index.html</loc>
-    <lastmod>2024-09-04T23:45:35.357Z</lastmod>
+    <lastmod>2025-07-26T19:28:57.627Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/about.html</loc>
+    <lastmod>2025-07-26T19:28:57.621Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/notebooks.html</loc>
-    <lastmod>2024-09-04T23:45:36.023Z</lastmod>
-  </url>
-  <url>
-    <loc>https://meaguirre3.github.io/QUARTO/posts/BFS_DFS/BFS.html</loc>
-    <lastmod>2024-09-04T23:45:36.513Z</lastmod>
-  </url>
-  <url>
-    <loc>https://meaguirre3.github.io/QUARTO/posts/post-with-code/stravaPlotOSMNX.html</loc>
-    <lastmod>2024-09-04T23:45:36.948Z</lastmod>
-  </url>
-  <url>
-    <loc>https://meaguirre3.github.io/QUARTO/posts/SelectionSort/SelectionSort.html</loc>
-    <lastmod>2024-09-04T23:45:37.400Z</lastmod>
-  </url>
-  <url>
-    <loc>https://meaguirre3.github.io/QUARTO/posts/StableMachin/StableMachin.html</loc>
-    <lastmod>2024-09-04T23:45:37.854Z</lastmod>
+    <lastmod>2025-07-26T19:28:57.628Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/posts/stravaFolium/Strava_gpx_plot.html</loc>
-    <lastmod>2024-09-04T23:45:38.294Z</lastmod>
+    <lastmod>2025-07-26T19:28:57.884Z</lastmod>
   </url>
   <url>
-    <loc>https://meaguirre3.github.io/QUARTO/posts/StravaRidgeMap/Visual_Segments.html</loc>
-    <lastmod>2024-09-04T23:45:38.894Z</lastmod>
-  </url>
-  <url>
-    <loc>https://meaguirre3.github.io/QUARTO/posts/Strava_pydeck/StavaPydeckSegment.html</loc>
-    <lastmod>2024-09-04T23:45:40.670Z</lastmod>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/post-with-code/stravaPlotOSMNX.html</loc>
+    <lastmod>2025-07-26T19:28:57.880Z</lastmod>
   </url>
 </urlset>
