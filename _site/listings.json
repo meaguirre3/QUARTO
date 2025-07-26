@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/notebooks.html",
     "items": [
       "/posts/welcome/index.html",
       "/posts/BFS_DFS/BFS.html",
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "listing": "/notebooks.html",
+    "listing": "/about.html",
     "items": [
       "/posts/welcome/index.html",
       "/posts/BFS_DFS/BFS.html",

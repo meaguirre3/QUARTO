@@ -1,14 +1,10 @@
 {
   "listingMap": {
-    "index.qmd": [
+    "about.qmd": [
       "posts"
     ],
     "notebooks.qmd": [
-      "posts",
-      "posts/*.ipynb",
-      "posts/stravaPlotOSMNX.ipynb",
-      "posts/Strava_gpx_plot.ipynb",
-      "posts/"
+      "posts"
     ]
   }
 }

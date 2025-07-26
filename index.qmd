@@ -1,16 +1,51 @@
 ---
 title: "Marco Aguirre"
+image: "images/profile.jpg"
 
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
+about:
+  template: trestles
   
-page-layout: full
-title-block-banner: true
----
+  links:
 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/marco-esteban-aguirre-rojas-04253611b
+    - icon: github
+      text: Github
+      href: https://github.com/meaguirre3
+    - icon: envelope
+      text: gmail
+      href: mailto:meaguirre3@gmail.com
+
+---
+## Professional Summary
+Master of Computer Science with a focus on Intelligent Systems, seeking to provide support and solutions to optimize processes and make data-driven decisions. Passionate about problem-solving and innovation through data science.
+
+## Professional Objective
+To apply my experience in Data Analysis, Machine Learning, Information Technology, and software development to solve complex problems and provide data-driven solutions that drive informed decision-making within an organization. Committed to the continuous pursuit of excellence in data science, exploring new techniques, and innovatively using technology to address business challenges.
+
+## Education
+
+- Master of Computer Science with a focus on Intelligent Systems | National Polytechnic School | Quito, Ecuador | 2021 - 2023|
+
+- Electronics and Telecommunications Engineering |Armed Forces University - ESPE | Sangolqui, Ecuador | 2012 - 2018
+
+## Professional Experience
+
+- Research Technician | National Polytechnic School | 2021 - now | Management and analysis of research with data and its collection, cleaning, analysis, preprocessing, and modeling. Development of Data Mining projects.
+
+- Technical Support | FIXGROUP | 2019 - 2021 | Management of wireless links, design of hotspots, and managed Wi-Fi through Aruba.
+
+- Research Assistant | Armed Forces University ESPE | 2017 - 2018 | Management of wireless networks and exploration of new wireless communication technologies.
+
+## Publications
+
+- **A Graph-Based Analysis of Collaboration, Trends, and Ethical Dynamics: Perspectives on Ecuadorian Academic Research**  
+  *ICEDEG 2025 - Eleventh International Conference on eDemocracy & eGovernment*, 2025.  
+  DOI: [10.1109/ICEDEG65568.2025.11081533](https://doi.org/10.1109/ICEDEG65568.2025.11081533)
+
+
+- **Evaluating embedded semantics for accessibility description of web crawl data**  
+  *AHFE International Conference*, Vol. 94, 2023.  
+  DOI: [10.54941/ahfe1003774](https://doi.org/10.54941/ahfe1003774)
 
