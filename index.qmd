@@ -40,6 +40,18 @@ To apply my experience in Data Analysis, Machine Learning, Information Technolog
 
 ## Publications
 
+- **GoSS-Rec: Group-Oriented Segment Sequence Recommendation**  
+  *Aguirre, Marco; Recalde, Lorena; Loza-Aguirre, Edison*  
+  *Information*, Vol. 16, No. 8, Article 668, 2025.  
+  DOI: [10.3390/info16080668](https://doi.org/10.3390/info16080668)  
+  URL: [https://www.mdpi.com/2078-2489/16/8/668](https://www.mdpi.com/2078-2489/16/8/668)
+
+
+- **A Graph-Based Analysis of Collaboration, Trends, and Ethical Dynamics: Perspectives on Ecuadorian Academic Research**  
+  *ICEDEG 2025 - Eleventh International Conference on eDemocracy & eGovernment*, 2025.  
+  DOI: [10.1109/ICEDEG65568.2025.11081533](https://doi.org/10.1109/ICEDEG65568.2025.11081533)
+
+
 - **A Graph-Based Analysis of Collaboration, Trends, and Ethical Dynamics: Perspectives on Ecuadorian Academic Research**  
   *ICEDEG 2025 - Eleventh International Conference on eDemocracy & eGovernment*, 2025.  
   DOI: [10.1109/ICEDEG65568.2025.11081533](https://doi.org/10.1109/ICEDEG65568.2025.11081533)
