@@ -52,11 +52,6 @@ To apply my experience in Data Analysis, Machine Learning, Information Technolog
   DOI: [10.1109/ICEDEG65568.2025.11081533](https://doi.org/10.1109/ICEDEG65568.2025.11081533)
 
 
-- **A Graph-Based Analysis of Collaboration, Trends, and Ethical Dynamics: Perspectives on Ecuadorian Academic Research**  
-  *ICEDEG 2025 - Eleventh International Conference on eDemocracy & eGovernment*, 2025.  
-  DOI: [10.1109/ICEDEG65568.2025.11081533](https://doi.org/10.1109/ICEDEG65568.2025.11081533)
-
-
 - **Evaluating embedded semantics for accessibility description of web crawl data**  
   *AHFE International Conference*, Vol. 94, 2023.  
   DOI: [10.54941/ahfe1003774](https://doi.org/10.54941/ahfe1003774)
