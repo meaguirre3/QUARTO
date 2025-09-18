@@ -16,6 +16,9 @@ about:
     - icon: envelope
       text: gmail
       href: mailto:meaguirre3@gmail.com
+    - icon: book
+      text: scholar
+      href: https://scholar.google.com/citations?user=9NRjhHcAAAAJ&hl=es
 
 ---
 ## Professional Summary
