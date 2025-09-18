@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Marco Aguirre",
+    "section": "",
+    "text": "Master of Computer Science with a focus on Intelligent Systems, seeking to provide support and solutions to optimize processes and make data-driven decisions. Passionate about problem-solving and innovation through data science."
+  },
+  {
+    "objectID": "index.html#professional-summary",
+    "href": "index.html#professional-summary",
+    "title": "Marco Aguirre",
+    "section": "",
+    "text": "Master of Computer Science with a focus on Intelligent Systems, seeking to provide support and solutions to optimize processes and make data-driven decisions. Passionate about problem-solving and innovation through data science."
+  },
+  {
+    "objectID": "index.html#professional-objective",
+    "href": "index.html#professional-objective",
+    "title": "Marco Aguirre",
+    "section": "Professional Objective",
+    "text": "Professional Objective\nTo apply my experience in Data Analysis, Machine Learning, Information Technology, and software development to solve complex problems and provide data-driven solutions that drive informed decision-making within an organization. Committed to the continuous pursuit of excellence in data science, exploring new techniques, and innovatively using technology to address business challenges."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Marco Aguirre",
+    "section": "Education",
+    "text": "Education\n\nMaster of Computer Science with a focus on Intelligent Systems | National Polytechnic School | Quito, Ecuador | 2021 - 2023|\nElectronics and Telecommunications Engineering |Armed Forces University - ESPE | Sangolqui, Ecuador | 2012 - 2018"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Marco Aguirre",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nResearch Technician | National Polytechnic School | 2021 - now | Management and analysis of research with data and its collection, cleaning, analysis, preprocessing, and modeling. Development of Data Mining projects.\nTechnical Support | FIXGROUP | 2019 - 2021 | Management of wireless links, design of hotspots, and managed Wi-Fi through Aruba.\nResearch Assistant | Armed Forces University ESPE | 2017 - 2018 | Management of wireless networks and exploration of new wireless communication technologies."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Marco Aguirre",
+    "section": "Publications",
+    "text": "Publications\n\nGoSS-Rec: Group-Oriented Segment Sequence Recommendation\nAguirre, Marco; Recalde, Lorena; Loza-Aguirre, Edison\nInformation, Vol. 16, No. 8, Article 668, 2025.\nDOI: 10.3390/info16080668\nURL: https://www.mdpi.com/2078-2489/16/8/668\nA Graph-Based Analysis of Collaboration, Trends, and Ethical Dynamics: Perspectives on Ecuadorian Academic Research\nICEDEG 2025 - Eleventh International Conference on eDemocracy & eGovernment, 2025.\nDOI: 10.1109/ICEDEG65568.2025.11081533\nEvaluating embedded semantics for accessibility description of web crawl data\nAHFE International Conference, Vol. 94, 2023.\nDOI: 10.54941/ahfe1003774"
+  },
+  {
     "objectID": "posts/BFS_DFS/BFS.html",
     "href": "posts/BFS_DFS/BFS.html",
     "title": "Algorithm Depth-First Search (DFS) AND Breadth-First Search (BFS)",
@@ -56,55 +98,6 @@
     "text": "Extract latitude, longitude and elevation\n\n# extract in gpx file latitude, longitude  and elevation\nroute_info = [{'latitude': point.latitude,'longitude': point.longitude,'elevation': point.elevation} \n              for track   in gpx.tracks  \n              for segment in track.segments \n              for point   in segment.points ]\n\n\n# route_df Dataframe\ndf = pd.DataFrame(route_info)\ndf.head()\n\n\n\n\n\n\n\n\nlatitude\nlongitude\nelevation\n\n\n\n\n0\n-0.216083\n-78.436892\n2388.8\n\n\n1\n-0.216085\n-78.436895\n2388.8\n\n\n2\n-0.216141\n-78.436849\n2388.9\n\n\n3\n-0.216161\n-78.436832\n2388.9\n\n\n4\n-0.216211\n-78.436803\n2389.0\n\n\n\n\n\n\n\n\n# Calculate the middle index\nmiddle_index = len(df) // 2\n# Get the middle element using iloc\npoint  = df.iloc[middle_index]"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Marco Aguirre",
-    "section": "",
-    "text": "Master of Computer Science with a focus on Intelligent Systems, seeking to provide support and solutions to optimize processes and make data-driven decisions. Passionate about problem-solving and innovation through data science."
-  },
-  {
-    "objectID": "index.html#professional-summary",
-    "href": "index.html#professional-summary",
-    "title": "Marco Aguirre",
-    "section": "",
-    "text": "Master of Computer Science with a focus on Intelligent Systems, seeking to provide support and solutions to optimize processes and make data-driven decisions. Passionate about problem-solving and innovation through data science."
-  },
-  {
-    "objectID": "index.html#professional-objective",
-    "href": "index.html#professional-objective",
-    "title": "Marco Aguirre",
-    "section": "Professional Objective",
-    "text": "Professional Objective\nTo apply my experience in Data Analysis, Machine Learning, Information Technology, and software development to solve complex problems and provide data-driven solutions that drive informed decision-making within an organization. Committed to the continuous pursuit of excellence in data science, exploring new techniques, and innovatively using technology to address business challenges."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Marco Aguirre",
-    "section": "Education",
-    "text": "Education\n\nMaster of Computer Science with a focus on Intelligent Systems | National Polytechnic School | Quito, Ecuador | 2021 - 2023|\nElectronics and Telecommunications Engineering |Armed Forces University - ESPE | Sangolqui, Ecuador | 2012 - 2018"
-  },
-  {
-    "objectID": "index.html#professional-experience",
-    "href": "index.html#professional-experience",
-    "title": "Marco Aguirre",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n\nResearch Technician | National Polytechnic School | 2021 - now | Management and analysis of research with data and its collection, cleaning, analysis, preprocessing, and modeling. Development of Data Mining projects.\nTechnical Support | FIXGROUP | 2019 - 2021 | Management of wireless links, design of hotspots, and managed Wi-Fi through Aruba.\nResearch Assistant | Armed Forces University ESPE | 2017 - 2018 | Management of wireless networks and exploration of new wireless communication technologies."
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "Marco Aguirre",
-    "section": "Publications",
-    "text": "Publications\n\nGoSS-Rec: Group-Oriented Segment Sequence Recommendation\nAguirre, Marco; Recalde, Lorena; Loza-Aguirre, Edison\nInformation, Vol. 16, No. 8, Article 668, 2025.\nDOI: 10.3390/info16080668\nURL: https://www.mdpi.com/2078-2489/16/8/668\nA Graph-Based Analysis of Collaboration, Trends, and Ethical Dynamics: Perspectives on Ecuadorian Academic Research\nICEDEG 2025 - Eleventh International Conference on eDemocracy & eGovernment, 2025.\nDOI: 10.1109/ICEDEG65568.2025.11081533\nA Graph-Based Analysis of Collaboration, Trends, and Ethical Dynamics: Perspectives on Ecuadorian Academic Research\nICEDEG 2025 - Eleventh International Conference on eDemocracy & eGovernment, 2025.\nDOI: 10.1109/ICEDEG65568.2025.11081533\nEvaluating embedded semantics for accessibility description of web crawl data\nAHFE International Conference, Vol. 94, 2023.\nDOI: 10.54941/ahfe1003774"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Marco Aguirre",
-    "section": "",
-    "text": "Ecuador Geo-Visualization: Heatmap by Region\n\n\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nJul 26, 2025\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nStrava GPX Plotter: Mapping Beautiful Journeys with Folium in Python\n\n\n\nnews\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm Depth-First Search (DFS) AND Breadth-First Search (BFS)\n\n\n\nnews\n\ncode\n\nalgorithms\n\nPython\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nStrava Route Plot OSMNX\n\n\n\nnews\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nMar 17, 2022\n\n\nMarco Aguirre\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "notebooks.html",
     "href": "notebooks.html",
     "title": "Notebooks",
@@ -159,5 +152,12 @@
     "title": "Strava Route Plot OSMNX",
     "section": "4. Plot Elevation",
     "text": "4. Plot Elevation\n\nelevation = route_df.elevation\nx_plot    = range(len(elevation))\nmin_elev  = min(elevation) - 25\n\n\n# Set the figure size\nfig, ax = plt.subplots(figsize=(11, 2))\n# Area plot\nax.fill_between(x_plot, elevation, color=\"#E64E25\")\n# Set the minimum and maximum values for the y-axis\nax.set_ylim(min_elev, 4000)\nplt.axis('off')\n# Save the figure\npath_save = path.split(\".\")[0] +\"_elevation\" \".png\"\nplt.savefig(path_save , transparent=True, bbox_inches='tight', pad_inches=0 )\n# Display the plot\nplt.show()\n\n\n\n\n\n\n\n\n\nfig.savefig('perfil.png')"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Marco Aguirre",
+    "section": "",
+    "text": "Ecuador Geo-Visualization: Heatmap by Region\n\n\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nJul 26, 2025\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nStrava GPX Plotter: Mapping Beautiful Journeys with Folium in Python\n\n\n\nnews\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nAlgorithm Depth-First Search (DFS) AND Breadth-First Search (BFS)\n\n\n\nnews\n\ncode\n\nalgorithms\n\nPython\n\n\n\n\n\n\n\n\n\nAug 6, 2023\n\n\nMarco Aguirre\n\n\n\n\n\n\n\n\n\n\n\n\nStrava Route Plot OSMNX\n\n\n\nnews\n\ncode\n\nvisualization\n\n\n\n\n\n\n\n\n\nMar 17, 2022\n\n\nMarco Aguirre\n\n\n\n\n\nNo matching items"
   }
 ]

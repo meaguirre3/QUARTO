@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://meaguirre3.github.io/QUARTO/index.html</loc>
+    <lastmod>2025-09-18T20:13:33.270Z</lastmod>
+  </url>
+  <url>
     <loc>https://meaguirre3.github.io/QUARTO/posts/BFS_DFS/BFS.html</loc>
-    <lastmod>2025-08-07T14:58:45.623Z</lastmod>
+    <lastmod>2025-09-18T20:13:33.270Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/posts/stravaFolium/Strava_gpx_plot.html</loc>
-    <lastmod>2025-08-07T14:58:45.881Z</lastmod>
-  </url>
-  <url>
-    <loc>https://meaguirre3.github.io/QUARTO/index.html</loc>
-    <lastmod>2025-08-07T14:58:45.622Z</lastmod>
-  </url>
-  <url>
-    <loc>https://meaguirre3.github.io/QUARTO/about.html</loc>
-    <lastmod>2025-08-07T14:58:45.616Z</lastmod>
+    <lastmod>2025-09-18T20:13:33.543Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/notebooks.html</loc>
-    <lastmod>2025-08-07T14:58:45.622Z</lastmod>
+    <lastmod>2025-09-18T20:13:33.270Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/posts/PlotEcuador/HeatEcuador.html</loc>
-    <lastmod>2025-08-07T14:58:45.624Z</lastmod>
+    <lastmod>2025-09-18T20:13:33.271Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/posts/post-with-code/stravaPlotOSMNX.html</loc>
-    <lastmod>2025-08-07T14:58:45.878Z</lastmod>
+    <lastmod>2025-09-18T20:13:33.540Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/about.html</loc>
+    <lastmod>2025-09-18T20:13:33.264Z</lastmod>
   </url>
 </urlset>

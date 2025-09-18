@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/about.html",
+    "listing": "/notebooks.html",
     "items": [
       "/posts/PlotEcuador/HeatEcuador.html",
       "/posts/stravaFolium/Strava_gpx_plot.html",
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "listing": "/notebooks.html",
+    "listing": "/about.html",
     "items": [
       "/posts/PlotEcuador/HeatEcuador.html",
       "/posts/stravaFolium/Strava_gpx_plot.html",
