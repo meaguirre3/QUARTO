@@ -43,5 +43,8 @@
   },
   "posts/PlotEcuador/HeatEcuador.ipynb": {
     "HeatEcuador.html": "078e0ad0"
+  },
+  "posts/MapEcuador/folium_timeline.ipynb": {
+    "folium_timeline.html": "871b3bf0"
   }
 }
