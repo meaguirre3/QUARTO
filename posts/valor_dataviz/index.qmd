@@ -1,0 +1,28 @@
+---
+title: "Valor de la Visualización de Datos"
+author: "Marco Aguirre"
+date: "2025-08-20"
+categories: [data_viz]
+image: "img.png"
+format: 
+    revealjs:
+        logo: logo.png
+        footer: "Herrameintas de Visualización de Datos"
+---
+
+## Historia
+
+- Siglo XVII: mapas y primeras gráficas estadísticas.
+![](images/hist.png){.absolute top=200 left=0 width="350" height="300"}
+
+## Historia
+
+- 1800s: nacimiento del gráfico circular de sectores y de barras., William Playfair.
+- Las computadoras hicieron posible procesar grandes cantidades de datos a velocidades muy altas.
+
+
+## <span style="color:red">Valor</span> de la  <span style="color:red">palabra roja</span>
+
+
+- Get in bed
+- Count sheep

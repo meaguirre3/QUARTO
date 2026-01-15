@@ -46,5 +46,86 @@
   },
   "posts/MapEcuador/folium_timeline.ipynb": {
     "folium_timeline.html": "871b3bf0"
+  },
+  "posts/Barplot/graficoBarras.ipynb": {
+    "graficoBarras.html": "eaecf61e"
+  },
+  "posts/Boxplot/boxplot.ipynb": {
+    "boxplot.html": "fa860f00"
+  },
+  "posts/CircleMap/rc.ipynb": {
+    "rc.html": "5e4f53ae"
+  },
+  "posts/circularPacking/circularPacking.ipynb": {
+    "circularPacking.html": "6d2ba0ba"
+  },
+  "posts/DashboardExample/dashexample.ipynb": {
+    "dashexample.html": "6c339d8c"
+  },
+  "posts/densidad/densidad.ipynb": {
+    "densidad.html": "a5be122a"
+  },
+  "posts/Embudo/embudo.ipynb": {
+    "embudo.html": "a1e6a339"
+  },
+  "posts/folium/folium.ipynb": {
+    "folium.html": "30c84629"
+  },
+  "posts/foliumTimeline/folium_timeline.ipynb": {
+    "folium_timeline.html": "6e8d6610"
+  },
+  "posts/GLineas/graficoLineas.ipynb": {
+    "graficoLineas.html": "1b211644"
+  },
+  "posts/Heatmap/HEATMAP.ipynb": {
+    "HEATMAP.html": "1abfdb1a"
+  },
+  "posts/Histograma/histograma.ipynb": {
+    "histograma.html": "455c4fa1"
+  },
+  "posts/introPandas/Intro_a_Pandas.ipynb": {
+    "Intro_a_Pandas.html": "e06bba02"
+  },
+  "posts/Isotype/Isotype.ipynb": {
+    "Isotype.html": "69bfc5dc"
+  },
+  "posts/Lollipop/Lollipop.ipynb": {
+    "Lollipop.html": "2fc59686"
+  },
+  "posts/Mapa2/mapa2.ipynb": {
+    "mapa2.html": "9027806e"
+  },
+  "posts/mapaCalorF/folium_heatmap.ipynb": {
+    "folium_heatmap.html": "3e385f55"
+  },
+  "posts/Missigno/missingno.ipynb": {
+    "missingno.html": "b384bf3a"
+  },
+  "posts/pastel/circularPacking.ipynb": {
+    "circularPacking.html": "4ceec9d8"
+  },
+  "posts/Poster/poster.ipynb": {
+    "poster.html": "9b32b534"
+  },
+  "posts/Puntos/Puntos.ipynb": {
+    "Puntos.html": "9addfc3a"
+  },
+  "posts/Semana1/introduccion_python_1.ipynb": {
+    "introduccion_python_1.html": "e9c76248"
+  },
+  "posts/slopegraph/slopegraph.ipynb": {
+    "slopegraph.html": "566f622d"
+  },
+  "posts/TreeMap/treeMap.ipynb": {
+    "treeMap.html": "79ba62fb"
+  },
+  "posts/valor_dataviz/index.qmd": {
+    "index.html": "68e9ad44"
+  },
+  "posts/violin/violin.ipynb": {
+    "violin.html": "11cb330d"
+  },
+  "posts/WordCloud/WordCloud.ipynb": {
+    "WordCloud.html": "43e911fa"
   }
 }
