@@ -2,34 +2,142 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/notebooks.html</loc>
-    <lastmod>2025-10-27T00:12:36.569Z</lastmod>
+    <lastmod>2026-01-15T14:30:34.166Z</lastmod>
   </url>
   <url>
-    <loc>https://meaguirre3.github.io/QUARTO/posts/BFS_DFS/BFS.html</loc>
-    <lastmod>2025-10-27T00:12:36.569Z</lastmod>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/Semana1/introduccion_python_1.html</loc>
+    <lastmod>2026-01-15T14:30:34.510Z</lastmod>
   </url>
   <url>
-    <loc>https://meaguirre3.github.io/QUARTO/posts/post-with-code/stravaPlotOSMNX.html</loc>
-    <lastmod>2025-10-27T00:12:36.864Z</lastmod>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/CircleMap/rc.html</loc>
+    <lastmod>2026-01-15T14:30:34.217Z</lastmod>
   </url>
   <url>
-    <loc>https://meaguirre3.github.io/QUARTO/posts/stravaFolium/Strava_gpx_plot.html</loc>
-    <lastmod>2025-10-27T00:12:36.868Z</lastmod>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/introPandas/Intro_a_Pandas.html</loc>
+    <lastmod>2026-01-15T14:30:34.617Z</lastmod>
   </url>
   <url>
-    <loc>https://meaguirre3.github.io/QUARTO/index.html</loc>
-    <lastmod>2025-10-27T00:12:36.568Z</lastmod>
-  </url>
-  <url>
-    <loc>https://meaguirre3.github.io/QUARTO/posts/MapEcuador/folium_timeline.html</loc>
-    <lastmod>2025-10-27T00:12:36.592Z</lastmod>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/TreeMap/treeMap.html</loc>
+    <lastmod>2026-01-15T14:30:34.523Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/posts/PlotEcuador/HeatEcuador.html</loc>
-    <lastmod>2025-10-27T00:12:36.605Z</lastmod>
+    <lastmod>2026-01-15T14:30:34.458Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/Puntos/Puntos.html</loc>
+    <lastmod>2026-01-15T14:30:34.507Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/DashboardExample/dashexample.html</loc>
+    <lastmod>2026-01-15T14:30:34.218Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/slopegraph/slopegraph.html</loc>
+    <lastmod>2026-01-15T14:30:34.995Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/post-with-code/stravaPlotOSMNX.html</loc>
+    <lastmod>2026-01-15T14:30:34.989Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/pastel/circularPacking.html</loc>
+    <lastmod>2026-01-15T14:30:34.732Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/Poster/poster.html</loc>
+    <lastmod>2026-01-15T14:30:34.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/Missigno/missingno.html</loc>
+    <lastmod>2026-01-15T14:30:34.456Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/folium/folium.html</loc>
+    <lastmod>2026-01-15T14:30:34.587Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/MapEcuador/folium_timeline.html</loc>
+    <lastmod>2026-01-15T14:30:34.442Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/mapaCalorF/folium_heatmap.html</loc>
+    <lastmod>2026-01-15T14:30:34.728Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/Embudo/embudo.html</loc>
+    <lastmod>2026-01-15T14:30:34.238Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/index.html</loc>
+    <lastmod>2026-01-15T14:30:34.166Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/Heatmap/HEATMAP.html</loc>
+    <lastmod>2026-01-15T14:30:34.314Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/violin/violin.html</loc>
+    <lastmod>2026-01-15T14:30:35.009Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/stravaFolium/Strava_gpx_plot.html</loc>
+    <lastmod>2026-01-15T14:30:34.998Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/Isotype/Isotype.html</loc>
+    <lastmod>2026-01-15T14:30:34.360Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/circularPacking/circularPacking.html</loc>
+    <lastmod>2026-01-15T14:30:34.555Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/Boxplot/boxplot.html</loc>
+    <lastmod>2026-01-15T14:30:34.210Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/densidad/densidad.html</loc>
+    <lastmod>2026-01-15T14:30:34.566Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/valor_dataviz/index.html</loc>
+    <lastmod>2026-01-15T14:30:35.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/GLineas/graficoLineas.html</loc>
+    <lastmod>2026-01-15T14:30:34.242Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/Histograma/histograma.html</loc>
+    <lastmod>2026-01-15T14:30:34.328Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/foliumTimeline/folium_timeline.html</loc>
+    <lastmod>2026-01-15T14:30:34.607Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/Mapa2/mapa2.html</loc>
+    <lastmod>2026-01-15T14:30:34.454Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/BFS_DFS/BFS.html</loc>
+    <lastmod>2026-01-15T14:30:34.167Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/Barplot/graficoBarras.html</loc>
+    <lastmod>2026-01-15T14:30:34.185Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/Lollipop/Lollipop.html</loc>
+    <lastmod>2026-01-15T14:30:34.425Z</lastmod>
+  </url>
+  <url>
+    <loc>https://meaguirre3.github.io/QUARTO/posts/WordCloud/WordCloud.html</loc>
+    <lastmod>2026-01-15T14:30:34.553Z</lastmod>
   </url>
   <url>
     <loc>https://meaguirre3.github.io/QUARTO/about.html</loc>
-    <lastmod>2025-10-27T00:12:36.562Z</lastmod>
+    <lastmod>2026-01-15T14:30:34.160Z</lastmod>
   </url>
 </urlset>
