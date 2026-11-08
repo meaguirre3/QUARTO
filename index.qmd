@@ -43,19 +43,31 @@ To apply my experience in Data Analysis, Machine Learning, Information Technolog
 
 ## Publications
 
+- **X-SLR: A Hexagonal Architecture Framework for Reporting Systematic Literature Reviews**  
+  *Aguirre, Marco; Ayala-Tipan, Carlos; Andrade-Cabrera, Andres; Martinez-Mosquera, Diana; Recalde, Lorena; Suntaxi, Gabriela*  
+  *Information*, Vol. 17, No. 10, Article 1043, 2026.  
+  DOI: [10.3390/info17101043](https://doi.org/10.3390/info17101043)  
+  URL: [https://www.mdpi.com/2078-2489/17/10/1043](https://www.mdpi.com/2078-2489/17/10/1043)
+
+- **Centinela Meets Agents: Agentic RAG for Academic Information in Ecuador**  
+  *Aguirre, Marco; Ayala-Tipan, Carlos; Chuncho, Angel; Recalde, Lorena; Suntaxi, Gabriela; Martinez-Mosquera, Diana; Andrade-Cabrera, Andres*  
+  *2025 LI Latin American Computer Conference (CLEI)*, pp. 1–4, 2025.  
+  DOI: [10.1109/CLEI67442.2025.11420412](https://doi.org/10.1109/CLEI67442.2025.11420412)
+
 - **GoSS-Rec: Group-Oriented Segment Sequence Recommendation**  
   *Aguirre, Marco; Recalde, Lorena; Loza-Aguirre, Edison*  
   *Information*, Vol. 16, No. 8, Article 668, 2025.  
   DOI: [10.3390/info16080668](https://doi.org/10.3390/info16080668)  
   URL: [https://www.mdpi.com/2078-2489/16/8/668](https://www.mdpi.com/2078-2489/16/8/668)
 
-
 - **A Graph-Based Analysis of Collaboration, Trends, and Ethical Dynamics: Perspectives on Ecuadorian Academic Research**  
-  *ICEDEG 2025 - Eleventh International Conference on eDemocracy & eGovernment*, 2025.  
+  *Andrade-Cabrera, Andres; Aguirre, Marco; Ayala-Tipan, Carlos; Suntaxi, Gabriela; Martinez-Mosquera, Diana; Recalde, Lorena*  
+  *2025 Eleventh International Conference on eDemocracy & eGovernment (ICEDEG)*, pp. 206–213, 2025.  
   DOI: [10.1109/ICEDEG65568.2025.11081533](https://doi.org/10.1109/ICEDEG65568.2025.11081533)
 
-
-- **Evaluating embedded semantics for accessibility description of web crawl data**  
-  *AHFE International Conference*, Vol. 94, 2023.  
+- **Evaluating Embedded Semantics for Accessibility Description of Web Crawl Data**  
+  *Navarrete, Rosa; Martinez-Mosquera, Diana; Recalde, Lorena; Aguirre, Marco*  
+  *Human Factors in Software and Systems Engineering*, Vol. 94, pp. 95–103, AHFE International, 2023.  
   DOI: [10.54941/ahfe1003774](https://doi.org/10.54941/ahfe1003774)
+
 
